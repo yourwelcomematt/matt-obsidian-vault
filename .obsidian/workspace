@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "425445ac7dd9d172",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d9462eaf11fa11a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Obsidian/Getting Started.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89cd9bd5b7d1099e",
+    "type": "split",
+    "children": [
+      {
+        "id": "82e33c0651a9075b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae2579cfbf940fc1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8ef2ded84b0d010",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288
+  },
+  "right": {
+    "id": "0ca303ee528e89fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "49a1883d5fff6238",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "760ab488c368b935",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian/Getting Started.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2d9462eaf11fa11a",
+  "lastOpenFiles": [
+    "Obsidian/Getting Started.md",
+    "Obsidian/Markdown.md",
+    "Photography/Lenses.md",
+    "Photography/Brands.md",
+    "Photography/DSLR vs Mirrorless.md",
+    "vault.md"
+  ]
+}
