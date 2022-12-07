@@ -1,0 +1,1 @@
+SanDisk Extreme 64GB 170MB/s UHS-3 SDXC SD Card

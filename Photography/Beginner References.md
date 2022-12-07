@@ -1,0 +1,6 @@
+- Best Beginner Camera - 2022 - What you need to know (The School of Photography)
+	- [https://www.youtube.com/watch?v=aoAiIJZ6s-Y](https://www.youtube.com/watch?v=aoAiIJZ6s-Y)
+- BEST BEGINNER Camera Buying Guide for YOU 2022! (Tech Through The Lens)
+	- [https://www.youtube.com/watch?v=Tm3vRvSiy60](https://www.youtube.com/watch?v=Tm3vRvSiy60)
+- Stuff Beginner Photographers ACTUALLY Need… (James Popsys)
+	- [https://www.youtube.com/watch?v=Xm7wH_LR_Tc](https://www.youtube.com/watch?v=Xm7wH_LR_Tc)

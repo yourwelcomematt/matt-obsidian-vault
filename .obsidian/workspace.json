@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Getting Started.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bca29ce035975793",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/Lenses.md",
+                "file": "Photography/DSLR vs Mirrorless.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +25,73 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Photography/Lenses/Lenses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13e04865c455c76c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photography/Lenses/Sony Lenses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "198a34ec2aa29266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photography/Accessories/SD Cards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adc41dcc8553ceb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photography/DSLR vs Mirrorless.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a509d81a999e526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photography/Sensor Sizes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1443aab1559534de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Obsidian/Markdown.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photography/Lenses.md",
+                "file": "Photography/DSLR vs Mirrorless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,13 +167,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bca29ce035975793",
+  "active": "63df6322fc266cf6",
   "lastOpenFiles": [
+    "Photography/Beginner References.md",
     "Obsidian/Getting Started.md",
-    "Photography/Lenses.md",
-    "Obsidian/Markdown.md",
-    "Photography/Brands.md",
+    "Photography/Lenses/Lenses.md",
+    "Photography/Lenses/Sony Lenses.md",
     "Photography/DSLR vs Mirrorless.md",
-    "vault.md"
+    "Photography/Brands and Cameras.md",
+    "Photography/Brands.md",
+    "Photography/Accessories/SD Cards.md",
+    "Photography/Accessories/Batteries.md",
+    "Photography/Shops.md"
   ]
 }

@@ -1,5 +1,6 @@
 - Hash tag - header
 - Dash - bullet point list
+- Single asterisks - italic text
 - Double asterisks - bold text
 - Back ticks - code snippet
 - Double square brackets - link
