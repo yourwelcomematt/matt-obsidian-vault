@@ -6,3 +6,4 @@
 
 References
 - https://www.aperturebuzz.com/camera-diopter/
+- https://www.reddit.com/r/SonyAlpha/comments/5nqskz/anyone_have_trouble_with_a6000_viewfinder_and/
