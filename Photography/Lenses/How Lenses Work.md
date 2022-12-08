@@ -19,8 +19,8 @@
 
 - The size of the hole in the lens where light is able to enter (like the pupil)
 - Measured in f-stops (f)
-	- The lower the f-stop number, the wider the aperture, resulting in more light being let in and a shallower depth of field (i.e. more background blur behind the subject)
-	- The higher the f-stop number, the narrower the aperture, resulting in less light being let in and a deeper depth of field (i.e. less background blur behind the subject)
+	- The lower the f-stop number, the wider the aperture, resulting in more light being let in and a shallower depth of field (i.e. more background blur behind the subject and greater separation)
+	- The higher the f-stop number, the narrower the aperture, resulting in less light being let in and a deeper depth of field (i.e. less background blur behind the subject and less separation)
 - The f-stop number on the lens is the lowest f-stop, and thus widest aperture, it can achieve
 	- Variable aperture zoom lenses (which are usually cheaper) have different minimum f-stop numbers for different focal lengths (usually higher for longer focal lengths)
 	- E.g. for an 18-55mm f3.5-5.6 lens, it can open up to f3.5 at 18mm, but only f5.6 at 55mm
