@@ -1,0 +1,4 @@
+- https://www.youtube.com/watch?v=c74B2OHIJKc ULTIMATE Beginner's Guide To CAMERA LENSES! (Josh Winiarski)
+- https://www.youtube.com/watch?v=z-x-d-K9Jfw How to Pick Your First Camera Lens (Tech Gear Talk)
+- https://www.youtube.com/watch?v=woYIB69_egI LENS BASICS - A Beginner's Guide to Camera Lenses | Photography Tips and Tutorial (Photo Genius)
+- https://www.youtube.com/watch?v=uSsIqR3DuK8 Ultimate Guide to Camera Lenses - Every Type of Camera Lens Explained \[Shot List Ep. 7\] (StudioBinder)

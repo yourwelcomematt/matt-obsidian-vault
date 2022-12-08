@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "24e90086575c0d94",
+            "id": "b5ed8b21ecfa52ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Lenses/Lenses.md",
+                "file": "Photography/Lenses/How Lenses Work.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,30 +44,6 @@
             }
           },
           {
-            "id": "8445287a869caa5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/Shops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adc41dcc8553ceb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/DSLR vs Mirrorless.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0a509d81a999e526",
             "type": "leaf",
             "state": {
@@ -80,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photography/Accessories/SD Cards.md",
+                "file": "Photography/Lenses/How Lenses Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,17 +132,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7f6abf664d4aae5f",
+  "active": "b5ed8b21ecfa52ca",
   "lastOpenFiles": [
-    "Photography/Buffer.md",
-    "Photography/Accessories/SD Cards.md",
-    "Photography/Shops.md",
-    "Photography/Lenses/Lenses.md",
-    "Photography/Lenses/Sony Lenses.md",
-    "Photography/Viewfinder.md",
+    "Photography/Lenses/Beginner Options.md",
+    "Photography/Lenses/Sony Options.md",
+    "Photography/Lenses/How Lenses Work.md",
+    "Photography/Lenses/Image Stabilisation (IS).md",
+    "Photography/Lenses/Weather Sealing.md",
+    "Photography/Lenses/References.md",
     "Photography/DSLR vs Mirrorless.md",
-    "Photography/Beginner References.md",
-    "Obsidian/Getting Started.md",
-    "Photography/Brands and Cameras.md"
+    "Photography/Lenses/Filters.md",
+    "Photography/Sensor Sizes.md",
+    "Photography/Lenses/Lens Types.md"
   ]
 }

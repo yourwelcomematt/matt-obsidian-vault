@@ -1,0 +1,1 @@
+- The more expensive, professional-grade lenses are weather sealed, meaning they can be used in all weather conditions (e.g. rain, snow, etc.)

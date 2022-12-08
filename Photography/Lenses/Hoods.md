@@ -1,0 +1,3 @@
+- Prevent unwanted light from causing lens flare and ruining your images
+- Can make your images more contrasty
+- Help protect your lens from getting damaged
