@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "47724d5e1e085b5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/Lenses/Focus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e6340752bef51646",
             "type": "leaf",
             "state": {
@@ -56,36 +44,36 @@
             }
           },
           {
-            "id": "64f7cf481d4a61b6",
+            "id": "c6032199a637f791",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Lenses/Lenses by Field of View.md",
+                "file": "Photography/Brands.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7f6abf664d4aae5f",
+            "id": "3472629de81f6737",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photography/Purchasing History.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "601d1858fc045661",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Photography/Accessories/SD Cards.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a509d81a999e526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/Sensor Sizes.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photography/Lenses/Lenses by Field of View.md",
+                "file": "Photography/Purchasing History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,17 +156,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "64f7cf481d4a61b6",
+  "active": "3472629de81f6737",
   "lastOpenFiles": [
+    "Photography/Accessories/SD Cards.md",
+    "Photography/Purchasing History.md",
+    "Photography/Brands.md",
+    "Photography/Lenses/Lenses by Field of View.md",
+    "Photography/Sensor Sizes.md",
     "Photography/Lenses/Lens Types.md",
     "Photography/Lenses/How Lenses Work.md",
     "Photography/Lenses/Focus.md",
-    "Photography/Lenses/Lenses by Field of View.md",
-    "Photography/Lenses/Beginner Options.md",
-    "Photography/Lenses/Sony Options.md",
-    "Photography/Lenses/Image Stabilisation (IS).md",
-    "Photography/Lenses/Weather Sealing.md",
-    "Photography/Lenses/References.md",
-    "Photography/DSLR vs Mirrorless.md"
+    "Photography/DSLR vs Mirrorless.md",
+    "Photography/Lenses/Beginner Options.md"
   ]
 }
