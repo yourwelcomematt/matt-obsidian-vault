@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/DSLR vs Mirrorless.md",
+                "file": "Photography/Cameras/DSLR vs Mirrorless.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,62 +25,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Lenses/How Lenses Work.md",
+                "file": "Photography/Lenses/Focal Length & Aperture.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e6340752bef51646",
+            "id": "d66e575827ae12b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Lenses/Lens Types.md",
+                "file": "Photography/Lenses/Bokeh.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c6032199a637f791",
+            "id": "98e2d480137fb0f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Brands.md",
+                "file": "Photography/Cameras/Sensor Sizes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3472629de81f6737",
+            "id": "801c25674030bb25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Purchasing History.md",
+                "file": "Obsidian/Getting Started.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "601d1858fc045661",
+            "id": "c96680bba4944f04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Accessories/SD Cards.md",
+                "file": "Photography/Lenses/Beginner Options.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photography/Purchasing History.md",
+                "file": "Photography/Cameras/Sensor Sizes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,17 +156,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3472629de81f6737",
+  "active": "98e2d480137fb0f6",
   "lastOpenFiles": [
-    "Photography/Accessories/SD Cards.md",
-    "Photography/Purchasing History.md",
-    "Photography/Brands.md",
+    "Photography/Lenses/Bokeh.md",
+    "Photography/Cameras/Sensor Sizes.md",
+    "Obsidian/Getting Started.md",
+    "Obsidian/Markdown.md",
+    "Photography/Lenses/Types of Lenses.md",
     "Photography/Lenses/Lenses by Field of View.md",
-    "Photography/Sensor Sizes.md",
-    "Photography/Lenses/Lens Types.md",
-    "Photography/Lenses/How Lenses Work.md",
+    "Photography/Lenses/Beginner Options.md",
+    "Photography/Lenses/Focal Length & Aperture.md",
     "Photography/Lenses/Focus.md",
-    "Photography/DSLR vs Mirrorless.md",
-    "Photography/Lenses/Beginner Options.md"
+    "Photography/Cameras/Brands.md"
   ]
 }

@@ -1,6 +1,10 @@
 - Just use the kit lens, which is usually an inexpensive zoom lens (e.g. 18-55mm) that comes with the camera, as:
 	- It's more versatile
 	- You don't yet know what focal lengths work for your particular situation and style of shooting 
+- For an APS-C camera, a 35mm is often better than a 50mm, as the 35mm is a 52.5mm full-frame equivalent
+	- Wider field of view
+	- Wider depth of field
+	- However, the longer focal length of the 50mm will give more background compression
 
 
 ## Sony Options
@@ -10,3 +14,9 @@
 - Prime
 	- Sony E 16mm F2.8 (SEL16F28)
 	- Sony E 50mm F1.8 OSS (SEL50F18)
+	- Sigma Trio
+		- 16mm f1.4
+		- 39mm f1.4
+		- 56mm f1.4
+- References
+	- https://www.youtube.com/watch?v=Ju4PE9ytrZg Sony SEL35F18 vs SEL50F18 Comparison (Arthur R)

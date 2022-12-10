@@ -1,2 +1,0 @@
-- Like the RAM of the camera
-- Used to store photos or video before writing the data to the SD card

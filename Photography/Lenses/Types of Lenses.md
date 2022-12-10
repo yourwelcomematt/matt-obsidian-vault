@@ -3,9 +3,8 @@
 - Have a fixed focal length with no zoom capability
 - E.g. 50mm
 - Advantages
-	- Faster
 	- Have fewer lens elements, and thus are able to produce sharper images
-	- Have larger apertures, meaning they are better in low light and can achieve a shallower depth of field
+	- Have larger apertures, meaning they are better in low light and can achieve a shallower depth of field (i.e. are fast)
 - Disadvantages
 	- Less versatile
 
@@ -17,7 +16,6 @@
 	- More versatile, as you can shoot a wide range of focal lengths without having to change your lens
 	- Saves time, as you don't have to change your lens as often
 - Disadvantages
-	- Slower
 	- Have more lens elements, resulting in them producing less sharp images
-	- Have smaller apertures, meaning they are worse in low light
+	- Have smaller apertures, meaning they are worse in low light (i.e. are slow)
 	- The more zoomed in you are, the more shaky it'll be (unless you have IS)

@@ -24,7 +24,7 @@ Different lenses are able to capture the same subject in a completely different 
 
 - Focal length range: 70mm >
 - Used to capture distant subjects, making the viewer feel like they are observing the scene from afar
-- Compresses distance and flattens space, achieving the opposite effect than wide angle lenses - this is useful for isolating a character in a crowd
+- Compresses distance between the foreground and the background and flattens space, achieving the opposite effect than wide angle lenses - this is useful for isolating a character in a crowd
 
 ## Macro / Micro
 

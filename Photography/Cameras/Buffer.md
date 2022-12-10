@@ -1,0 +1,3 @@
+- Like the RAM of the camera
+- Used to store photos or video before writing the data to the SD card
+- When shooting in continuous or burst modes, the size of the buffer will determine how long you can shoot for before the buffer becomes full and the camera has to pause and write to the SD card

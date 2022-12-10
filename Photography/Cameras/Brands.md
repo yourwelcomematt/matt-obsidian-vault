@@ -3,7 +3,7 @@
 - General advantages of Canon cameras include:
 	- Colours are really good
 	- Ergonomic
-	- Simple and intuitive menues
+	- Simple and intuitive menus
 
 
 - EOS 1500D / Rebel T7
@@ -45,9 +45,21 @@
 	- Good 4K video
 
 - A6000 / A6100 / A6300/ A6400 / A6500 / A6600
+	- All have the same sensor and processor
+	- 11 FPS burst mode
+	- Higher-end models have a bigger buffer
+	- A6300 and above are made of metal with weather sealing, while the A6000 and A6100 are made of plastic with no weather sealing
+	- A6500 / A6600:
+		- Bigger and heavier due to the deeper and more substantial grip and IS
+		- More comfortable to hold due to the bigger grip
+		- Use a larger battery, resulting in twice the battery life
 	- Not the most ergonomic
 	- Short battery life
 	- Menus are long and non-intuitive
+	- Doesn't come with a battery charger, but can be charged in camera
+- References
+	- https://www.youtube.com/watch?v=TrAe8XaYwwY Sony a6600 vs a6400 vs a6100 | Which is RIGHT FOR YOU? (Tech Gear Talk)
+	- https://www.youtube.com/watch?v=ccXqPhCLuWw Sony A6000 vs A6100 vs A6300 vs A6400 vs A6500 vs A6600 (MARK10)
 
 # Panasonic
 

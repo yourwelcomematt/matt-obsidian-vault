@@ -13,3 +13,4 @@
 
 - The closest the lens can be to a subject and still be able to focus
 - Usually marked on the side of the lens, along with the word "macro" or a flower symbol
+- In general, the shorter the focusing distance, the greater the background blur (bokeh)

@@ -1,0 +1,2 @@
+- Used to estimate how much a camera has been used
+- 
