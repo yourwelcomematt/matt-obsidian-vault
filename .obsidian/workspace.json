@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "801c25674030bb25",
+            "id": "aad543735d6bbed2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "aad543735d6bbed2",
+            "id": "e97762503ff9d897",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9becd1a0a5623d85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photography/Sony A6000 Repair.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Obsidian vs Notion.md",
+                "file": "Photography/Sony A6000 Repair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +156,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aad543735d6bbed2",
+  "active": "9becd1a0a5623d85",
   "lastOpenFiles": [
     "Obsidian/Obsidian vs Notion.md",
+    "Obsidian/Getting Started.md",
+    "Obsidian/Markdown.md",
     "Photography/Cameras/DSLR vs Mirrorless.md",
     "Photography/Lenses/Focal Length & Aperture.md",
     "Photography/Lenses/Bokeh.md",
     "Photography/Cameras/Sensor Sizes.md",
-    "Obsidian/Getting Started.md",
-    "Obsidian/Markdown.md",
     "Photography/Cameras/Brands.md",
     "Photography/Lenses/Beginner Options.md",
     "Photography/Lenses/Types of Lenses.md"

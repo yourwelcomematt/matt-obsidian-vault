@@ -2,7 +2,6 @@
 
 - Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files
 
-
 ## Vaults
 
 - A vault is a folder on your local file system where Obsidian stores your notes
@@ -10,16 +9,14 @@
 
 https://help.obsidian.md/Getting+started/Create+a+vault
 
-
 ## Notes
 
 - Notes in Obsidian are stored as plain text files
-- Obsidian supports Markdown, which is a markup language for adding formatting to plain text files
-	- For a summary of Markdown syntax, [[Markdown|click here]]
+- Obsidian supports [[Markdown]], which is a markup language for adding formatting to plain text files
 - Type `Cmd+N` to create a new note
+- We can view multiple notes at once by dragging and dropping them into tiles
 
 https://help.obsidian.md/Getting+started/Create+your+first+note
-
 
 ## Links
 
@@ -29,15 +26,25 @@ https://help.obsidian.md/Getting+started/Create+your+first+note
 	- Alternatively, select some pre-existing text and type `[[` to convert it into an empty link, then use `Cmd` click to create the note to link to
 	- Use the pipe symbol after the link name to change the display text
 - Click the link to go to the note, or `Cmd+Opt` click to open the note alongside the current note 
+
+### Backlinks
 - Use the backlinks tab in the right side bar to navigate to notes that have links to the current note
-- Another way to navigate between your notes is by using a visual representation of how your notes are connected:
-	1.  In the top-right corner of the note, click **More options** (three dots).
-	2.  Select **Open local graph**.
-	3.  Click any of the nodes in the graph to navigate to that note.
+- We can view both linked mentions and unlinked mentions
 
+## Graph View
+
+- Another way to navigate between your notes is by using a visual representation of how your notes are connected, which is called the Graph View
+	1. Select **Open graph view** in the ribbon in the left sidebar.
+	2. Click any of the nodes in the graph to navigate to that note.
+
+https://help.obsidian.md/Plugins/Graph+view
 https://help.obsidian.md/Getting+started/Link+notes
-
 
 ## Tabs
 
 - To open a new tab, use `Cmd` click
+
+
+### References
+
+- https://www.youtube.com/playlist?list=PL-1Nqb2waX4Vba6QDVS5rhnSb9pZGTO4b Getting Started With Obsidian (Nicole van der Hoeven)

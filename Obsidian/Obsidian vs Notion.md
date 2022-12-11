@@ -1,15 +1,18 @@
 ## Obsidian
 
 - Pros
-	- Mainly used for note-taking
-	- Everything is written in Markdown, simplifying the text editing process
+	- Everything is written in plaintext in the Markdown language, simplifying the text editing process and ensuring longevity
 	- All files are stored locally, resulting in increased privacy and portability, and allowing you to work offline
 	- More lightweight, resulting in faster performance
 	- Easier to get started
 	- Better search functionality
 	- Wide range of themes and plug-ins, resulting in greater customisability and allowing you to completely change the look and feel of the app
+	- Very extensible
 	- Graph view allows you to visualise your whole knowledge base and the connections between nodes
+	- Can use Reveal.js to create simple built-in presentations 
 - Cons
+	- Needs plug-ins for calendars, tables, and kanban boards
+	- Worse for collaboration
 	- No multi-device sync - you have to pay for a monthly subscription if you want this, or use GitHub or another cloud storage service 
 	- Formatting is less user-friendly, as you have to remember Markdown syntax - may not be as intuitive for non-programmers
 	- Switching between editor and view mode can be a bit of a hassle - would recommend live view mode
