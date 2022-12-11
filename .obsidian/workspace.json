@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "b5ed8b21ecfa52ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/Lenses/Focal Length & Aperture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d66e575827ae12b5",
             "type": "leaf",
             "state": {
@@ -68,19 +56,19 @@
             }
           },
           {
-            "id": "c96680bba4944f04",
+            "id": "aad543735d6bbed2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Lenses/Beginner Options.md",
+                "file": "Obsidian/Obsidian vs Notion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photography/Cameras/Sensor Sizes.md",
+                "file": "Obsidian/Obsidian vs Notion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "98e2d480137fb0f6",
+  "active": "aad543735d6bbed2",
   "lastOpenFiles": [
+    "Obsidian/Obsidian vs Notion.md",
+    "Photography/Cameras/DSLR vs Mirrorless.md",
+    "Photography/Lenses/Focal Length & Aperture.md",
     "Photography/Lenses/Bokeh.md",
     "Photography/Cameras/Sensor Sizes.md",
     "Obsidian/Getting Started.md",
     "Obsidian/Markdown.md",
-    "Photography/Lenses/Types of Lenses.md",
-    "Photography/Lenses/Lenses by Field of View.md",
+    "Photography/Cameras/Brands.md",
     "Photography/Lenses/Beginner Options.md",
-    "Photography/Lenses/Focal Length & Aperture.md",
-    "Photography/Lenses/Focus.md",
-    "Photography/Cameras/Brands.md"
+    "Photography/Lenses/Types of Lenses.md"
   ]
 }

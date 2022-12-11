@@ -44,7 +44,7 @@
 	- Great in low-light
 	- Good 4K video
 
-- A6000 / A6100 / A6300/ A6400 / A6500 / A6600
+- A6000 / A6100, A6300 / A6400, and A6500 / A6600
 	- All have the same sensor and processor
 	- 11 FPS burst mode
 	- Higher-end models have a bigger buffer
@@ -60,6 +60,7 @@
 - References
 	- https://www.youtube.com/watch?v=TrAe8XaYwwY Sony a6600 vs a6400 vs a6100 | Which is RIGHT FOR YOU? (Tech Gear Talk)
 	- https://www.youtube.com/watch?v=ccXqPhCLuWw Sony A6000 vs A6100 vs A6300 vs A6400 vs A6500 vs A6600 (MARK10)
+	- https://www.youtube.com/watch?v=2Daqp35zNj0 Sony A6000 vs A6100 vs A6300 vs A6400 vs A6500 vs A6600: A Buying Guide (Arthur R)
 
 # Panasonic
 

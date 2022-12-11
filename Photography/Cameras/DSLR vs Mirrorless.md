@@ -1,5 +1,6 @@
 # DSLR
 
+- Uses a mirror system to create the viewfinder image
 - Pros
 	- Cheaper
 	- Longer battery life
@@ -11,6 +12,7 @@
 
 # Mirrorless
 
+- Omits the mirror system, instead using the image sensor to create the viewfinder and live view images
 - Pros
 	- Newer technology
 	- Better for video due to superior autofocusing capability

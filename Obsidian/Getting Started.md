@@ -1,8 +1,9 @@
-# What is Obsidian?
+## What is Obsidian?
+
 - Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files
 
 
-# Vaults
+## Vaults
 
 - A vault is a folder on your local file system where Obsidian stores your notes
 - You can keep all your notes in one vault, or create several vaults for each of your different projects
@@ -10,7 +11,7 @@
 https://help.obsidian.md/Getting+started/Create+a+vault
 
 
-# Notes
+## Notes
 
 - Notes in Obsidian are stored as plain text files
 - Obsidian supports Markdown, which is a markup language for adding formatting to plain text files
@@ -20,13 +21,13 @@ https://help.obsidian.md/Getting+started/Create+a+vault
 https://help.obsidian.md/Getting+started/Create+your+first+note
 
 
-## Linking Notes
+## Links
 
 - The true power of Obsidian lies in being able to link your notes together
 - By understanding how one piece of information relates to another, you can improve your ability to remember them and to form deeper insights
 - Use double square brackets to create a link
-	- Alternatively, select some pre-existing text and type `[[` to convert it into a link
-	- If the link is empty, `Cmd` click to create the note to link to
+	- Alternatively, select some pre-existing text and type `[[` to convert it into an empty link, then use `Cmd` click to create the note to link to
+	- Use the pipe symbol after the link name to change the display text
 - Click the link to go to the note, or `Cmd+Opt` click to open the note alongside the current note 
 - Use the backlinks tab in the right side bar to navigate to notes that have links to the current note
 - Another way to navigate between your notes is by using a visual representation of how your notes are connected:
@@ -37,6 +38,6 @@ https://help.obsidian.md/Getting+started/Create+your+first+note
 https://help.obsidian.md/Getting+started/Link+notes
 
 
-# Tabs
+## Tabs
 
 - To open a new tab, use `Cmd` click
