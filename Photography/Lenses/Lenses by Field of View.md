@@ -13,12 +13,14 @@ Different lenses are able to capture the same subject in a completely different 
 - Great for capturing wide shots without distortion
 - Can create distance between objects or people when used in tight spaces, allowing it to influence the viewer's perspective
 - Results in a stylised look
+- Good for landscape and architectural photography
 
 ## Standard / Normal
 
 - Focal length range: 35-50mm
 - Most similar to how the human eye sees the world
 - The ideal choice for a grounded and natural presentation, allowing the viewer to feel more present
+- Useful for portraits 
 
 ## Telephoto / Long
 
