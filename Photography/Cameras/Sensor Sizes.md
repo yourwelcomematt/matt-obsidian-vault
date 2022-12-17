@@ -9,7 +9,7 @@
 	- Greater detail and dynamic range
 	- Better low-light performance
 	- Less noise
-- Commonly believed to be able to achieve greater bokeh than smaller sensor sizes, however this is [[Bokeh|technically not the case]].
+- Commonly believed to be able to achieve greater bokeh than smaller sensor sizes, however this is [[Depth of Field|technically not the case]].
 
 ## APS-C
 

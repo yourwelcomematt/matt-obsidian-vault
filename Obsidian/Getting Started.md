@@ -26,10 +26,20 @@ https://help.obsidian.md/Getting+started/Create+your+first+note
 	- Alternatively, select some pre-existing text and type `[[` to convert it into an empty link, then use `Cmd` click to create the note to link to
 	- Use the pipe symbol after the link name to change the display text
 - Click the link to go to the note, or `Cmd+Opt` click to open the note alongside the current note 
+	- Hold `Cmd` while hovering over the link to see a preview
+	- We can also embed the contents of the link by putting an ! before the link
+- To create a link to an external URL, enclose the link text within square brackets and follow this immediately with the URL enclosed within parentheses
+- To create a link to a heading within the same note, use the # symbol after the link name followed by the header
+- To create a link to a block of text within the same not, use the ^ symbol after the link name followed by the text at the start of the block
 
 ### Backlinks
 - Use the backlinks tab in the right side bar to navigate to notes that have links to the current note
 - We can view both linked mentions and unlinked mentions
+
+## Images
+
+- We can add an image to a note by dragging and dropping it
+- Under the hood this is an embedded link to the file
 
 ## Graph View
 

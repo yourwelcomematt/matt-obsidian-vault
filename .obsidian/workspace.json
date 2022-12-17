@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Lenses/Bokeh.md",
+                "file": "Photography/Lenses/Depth of Field.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,31 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Obsidian/Markdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9258dacad318147b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Obsidian/Getting Started.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e97762503ff9d897",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/Lenses/Beginner Options.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02c164bf429f3b8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/Lenses/Lenses by Field of View.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,13 +114,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photography/Lenses/Beginner Options.md",
+                "file": "Obsidian/Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -144,17 +132,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e97762503ff9d897",
+  "active": "9258dacad318147b",
   "lastOpenFiles": [
-    "Photography/Lenses/Lenses by Field of View.md",
+    "Obsidian/Markdown.md",
+    "Obsidian/Getting Started.md",
+    "Photography/Sharpness.md",
+    "Photography/Lenses/Depth of Field.md",
     "Photography/Lenses/Beginner Options.md",
-    "Photography/Lenses/Image Stabilisation (IS).md",
-    "Photography/Lenses/Types of Lenses.md",
-    "Obsidian/Obsidian vs Notion.md",
-    "Photography/Sony A6000 Repair.md",
-    "Photography/Lenses/Bokeh.md",
-    "Photography/Cameras/DSLR vs Mirrorless.md",
+    "Photography/Lenses/Lenses by Field of View.md",
     "Photography/Cameras/Sensor Sizes.md",
-    "Obsidian/Getting Started.md"
+    "Composition & Framing.md",
+    "Photography/Lenses/Image Stabilisation (IS).md",
+    "Photography/Lenses/Types of Lenses.md"
   ]
 }

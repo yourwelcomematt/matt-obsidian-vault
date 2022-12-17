@@ -1,9 +1,16 @@
-- Hash tag - header
-- Dash - bullet point list
-- Single asterisks - italic text
-- Double asterisks - bold text
-- Back ticks - code snippet
-- Double square brackets - link
-	- Hash tag - link to header
-	- Chevron - link to block
-	- Pipe - change link text
+- `#` - header
+- `-` - bullet point list
+- `- [ ]` (`Cmd L`) - checklist and toggle checkbox
+- `* *` (`Cmd I`) - italic text
+- `** **` (`Cmd B`) - bold text
+- `~~ ~~` - strikethrough text
+- `== ==` - highlighted text
+- Back ticks - code snippet or Obsidian command
+- Three back ticks - code block
+	- Can follow the first set of back ticks with the programming language you're using for syntax highlighting
+- `[[ ]]` - link
+	- `[[ ]]#` - link to header
+	- `[[ ]]^` - link to block
+	- `[[ ]]|` - change link text
+- `>` - block quote
+- `--- + Enter` - separating line
