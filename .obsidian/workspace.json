@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "66340c59a3c7bd40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Community Plugins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Getting Started.md",
+                "file": "Obsidian/Community Plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,10 +144,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9258dacad318147b",
+  "active": "66340c59a3c7bd40",
   "lastOpenFiles": [
-    "Obsidian/Markdown.md",
     "Obsidian/Getting Started.md",
+    "Obsidian/Markdown.md",
     "Photography/Sharpness.md",
     "Photography/Lenses/Depth of Field.md",
     "Photography/Lenses/Beginner Options.md",
