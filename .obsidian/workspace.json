@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc812e9a2a76a60f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/Coconut Curry Kidney Beans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photography/Sony A6000/Settings.md",
+                "file": "Recipes/Coconut Curry Kidney Beans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,17 +168,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e220b351ecf97db8",
+  "active": "dc812e9a2a76a60f",
   "lastOpenFiles": [
+    "Photography/Sony A6000/Settings.md",
+    "Recipes/Coconut Curry Kidney Beans.md",
+    "Photography/Composition & Framing.md",
     "Photography/Sony A6000/Modes.md",
     "Photography/Lenses/Focal Length & Aperture.md",
     "Photography/Exposure Triangle.md",
     "Photography/Sony A6000/Shooting Manual.md",
-    "Photography/Sony A6000/Settings.md",
     "Photography/Cameras/Sensor Sizes.md",
     "Obsidian/Markdown.md",
-    "Obsidian/Getting Started.md",
-    "Photography/Sony A6000/Repair.md",
-    "Photography/Sony A6000/Lens Options.md"
+    "Obsidian/Getting Started.md"
   ]
 }
