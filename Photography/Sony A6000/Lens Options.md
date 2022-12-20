@@ -1,3 +1,5 @@
+## Which lens should I choose?
+
 - Just use the kit lens, which is usually an inexpensive zoom lens (e.g. 18-55mm) that comes with the camera, as:
 	- It's more versatile
 	- You don't yet know what focal lengths work for your particular situation and style of shooting 
@@ -36,6 +38,9 @@
 			- Short minimum focusing distance - almost like a macro
 		- 39mm f1.4
 		- 56mm f1.4
-- References
-	- https://www.youtube.com/watch?v=Ju4PE9ytrZg Sony SEL35F18 vs SEL50F18 Comparison (Arthur R)
-	- https://www.youtube.com/watch?v=1DoqXnjnpnY&list=WL&index=3 Recommended lenses for sony a6500, a6300, & a6000 (e-mount) (Dunna Did It)
+
+
+### References
+
+- https://www.youtube.com/watch?v=Ju4PE9ytrZg Sony SEL35F18 vs SEL50F18 Comparison (Arthur R)
+- https://www.youtube.com/watch?v=1DoqXnjnpnY&list=WL&index=3 Recommended lenses for sony a6500, a6300, & a6000 (e-mount) (Dunna Did It)

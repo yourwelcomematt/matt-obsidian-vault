@@ -25,43 +25,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Cameras/Sensor Sizes.md",
+                "file": "Photography/Sony A6000/Modes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aad543735d6bbed2",
+            "id": "1c35b8508d30ad9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Markdown.md",
+                "file": "Photography/Sony A6000/Shooting Manual.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9258dacad318147b",
+            "id": "c029b99702096ed4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Getting Started.md",
+                "file": "Photography/Exposure Triangle.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "66340c59a3c7bd40",
+            "id": "e220b351ecf97db8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Community Plugins.md",
+                "file": "Photography/Sony A6000/Settings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f46dc5bb088f6ffc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photography/Lenses/Focal Length & Aperture.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Community Plugins.md",
+                "file": "Photography/Sony A6000/Settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,17 +156,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "66340c59a3c7bd40",
+  "active": "e220b351ecf97db8",
   "lastOpenFiles": [
-    "Obsidian/Getting Started.md",
-    "Obsidian/Markdown.md",
-    "Photography/Sharpness.md",
-    "Photography/Lenses/Depth of Field.md",
-    "Photography/Lenses/Beginner Options.md",
-    "Photography/Lenses/Lenses by Field of View.md",
+    "Photography/Sony A6000/Modes.md",
+    "Photography/Lenses/Focal Length & Aperture.md",
+    "Photography/Exposure Triangle.md",
+    "Photography/Sony A6000/Shooting Manual.md",
+    "Photography/Sony A6000/Settings.md",
     "Photography/Cameras/Sensor Sizes.md",
-    "Composition & Framing.md",
-    "Photography/Lenses/Image Stabilisation (IS).md",
-    "Photography/Lenses/Types of Lenses.md"
+    "Obsidian/Markdown.md",
+    "Obsidian/Getting Started.md",
+    "Photography/Sony A6000/Repair.md",
+    "Photography/Sony A6000/Lens Options.md"
   ]
 }

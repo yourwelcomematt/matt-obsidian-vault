@@ -2,4 +2,3 @@
 - Dataview
 - Editor Syntax Highlight
 - Kanban
-- 
