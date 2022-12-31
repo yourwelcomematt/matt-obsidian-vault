@@ -23,7 +23,6 @@
 	- When shooting at a higher focal length (e.g. a telephoto lens), go 2 or 3x faster
 - Image stabilisation allows you to decrease your shutter speed if you're shooting a still subject, as it also counteracts this shake
 - Use single autofocus (AF-S) or manual focus, as the distance to the subject will not change
-	- AF-S uses a single point for autofocus
 
 ## Moving Subjects
 
@@ -32,7 +31,7 @@
 	- In general, start at 1/400 and move up from there
 	- The larger the subject is in the frame and the faster the subject moves through the frame, the faster the shutter speed you'll need (1/1000 and above)
 	- Use continuous autofocus (AF-C)
-		- AF-C will ensure that the selected point is continuously in focus
+
 
 It's super important that you take a few test shots and make the appropriate adjustments!
 

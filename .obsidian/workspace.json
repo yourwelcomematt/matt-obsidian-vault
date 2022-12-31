@@ -32,31 +32,7 @@
             }
           },
           {
-            "id": "1c35b8508d30ad9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/Sony A6000/Shooting Manual.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c029b99702096ed4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/Exposure Triangle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e220b351ecf97db8",
+            "id": "5b70c11a9e2090f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,31 +44,43 @@
             }
           },
           {
-            "id": "f46dc5bb088f6ffc",
+            "id": "8e294840d7ebb38c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Lenses/Focal Length & Aperture.md",
+                "file": "Photography/Sony A6000/Lens Options.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dc812e9a2a76a60f",
+            "id": "b61ba69b259cdaf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Coconut Curry Kidney Beans.md",
+                "file": "Photography/Cameras/Sensor Sizes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32b7378960a1abc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bulls and Cows.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Coconut Curry Kidney Beans.md",
+                "file": "Photography/Sony A6000/Lens Options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,17 +156,26 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dc812e9a2a76a60f",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "8e294840d7ebb38c",
   "lastOpenFiles": [
-    "Photography/Sony A6000/Settings.md",
-    "Recipes/Coconut Curry Kidney Beans.md",
-    "Photography/Composition & Framing.md",
-    "Photography/Sony A6000/Modes.md",
-    "Photography/Lenses/Focal Length & Aperture.md",
-    "Photography/Exposure Triangle.md",
-    "Photography/Sony A6000/Shooting Manual.md",
     "Photography/Cameras/Sensor Sizes.md",
-    "Obsidian/Markdown.md",
-    "Obsidian/Getting Started.md"
+    "Photography/Lenses/Depth of Field.md",
+    "Photography/Sony A6000/Settings.md",
+    "Photography/Sony A6000/Modes.md",
+    "Photography/Sony A6000/Shooting Manual.md",
+    "Photography/Sony A6000/Lens Options.md",
+    "Obsidian/Getting Started.md",
+    "Bulls and Cows.md",
+    "Photography/Sony A6000/Repair.md",
+    "Photography/Lenses/Focal Length & Aperture.md"
   ]
 }

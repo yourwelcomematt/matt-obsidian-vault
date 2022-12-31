@@ -21,7 +21,6 @@
 		- Not that good in low light and can't get lots of bokeh
 		- Heavy
 - Prime
-	- Sony E 16mm F2.8 (SEL16F28)
 	- Sony E 50mm F1.8 OSS (SEL50F18)
 	- Sigma 30mm f1.4
 		- Great for portraits
@@ -36,6 +35,7 @@
 			- Great in low light
 			- Works well with autofocus
 			- Short minimum focusing distance - almost like a macro
+			- Very sharp
 		- 39mm f1.4
 		- 56mm f1.4
 
