@@ -56,12 +56,24 @@
             }
           },
           {
+            "id": "ee53ec16193cebe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photography/Purchasing History.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b61ba69b259cdaf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Cameras/Sensor Sizes.md",
+                "file": "Photography/Lenses/Hoods.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photography/Sony A6000/Lens Options.md",
+                "file": "Photography/Lenses/Hoods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,17 +177,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8e294840d7ebb38c",
+  "active": "b61ba69b259cdaf9",
   "lastOpenFiles": [
+    "Photography/Sony A6000/Lens Options.md",
+    "Photography/Lenses/Hoods.md",
     "Photography/Cameras/Sensor Sizes.md",
+    "Photography/Purchasing History.md",
     "Photography/Lenses/Depth of Field.md",
     "Photography/Sony A6000/Settings.md",
     "Photography/Sony A6000/Modes.md",
     "Photography/Sony A6000/Shooting Manual.md",
-    "Photography/Sony A6000/Lens Options.md",
     "Obsidian/Getting Started.md",
-    "Bulls and Cows.md",
-    "Photography/Sony A6000/Repair.md",
-    "Photography/Lenses/Focal Length & Aperture.md"
+    "Bulls and Cows.md"
   ]
 }
