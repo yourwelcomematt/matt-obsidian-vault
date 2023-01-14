@@ -50,6 +50,7 @@
 		- Short minimum focusing distance - almost like a macro
 		- Very sharp
 		- No OSS
+		- https://www.youtube.com/watch?v=_Xl7PzQ7xfk The Hybrid Shooter
 	- 30mm f1.4
 		- Older than the rest of the trio so autofocus is worse
 		- Great for portraits
@@ -78,4 +79,5 @@
 	- https://www.youtube.com/watch?v=gXo00d2b7HU Tamron 17-70mm F2.8 Review + Sony 16-55mm F2.8 G Comparison
 - https://www.youtube.com/watch?v=1DoqXnjnpnY&list=WL&index=3 Recommended lenses for sony a6500, a6300, & a6000 (e-mount) (Dunna Did It)
 - https://www.youtube.com/watch?v=fvQ0TF6C1do Top 10 Lenses For Sony APS-C Cameras (Sony a6000) (hikyletaggart)
+- https://www.youtube.com/watch?v=HrXepF0KvbI Sigma 18-50mm f2.8 DC DN Review - The Best Lens For The Sony a6000? (hikyletaggart - shows how to fix barrel distortion)
 

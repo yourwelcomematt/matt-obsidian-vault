@@ -1,0 +1,2 @@
+- Ideal focal lengths for landscapes are shorter focal lengths such as 16mm, as they offer a wider field of view than longer focal lengths, allowing you to include more of the landscape in your image
+- A deep depth of field is often preferred for landscapes, as it ensures that all of the landscape is in focus; as such, a narrow aperture is usually used in combination with a shorter focal length

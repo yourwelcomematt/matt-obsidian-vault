@@ -24,4 +24,4 @@
 - The game can save the results to another text file
 
 
-![[Screen Shot 2022-12-25 at 5.57.19 PM.png]]
+![[Bulls and Cows Example Screenshot.png]]

@@ -122,3 +122,11 @@ https://youtube.com/playlist?list=PLEcdodJL7saPy42j5y1kjdbv9sQqtaF4N&feature=sha
 - We can save up to three recipes at a time
 - Choose your desired settings, then go into Memory and select the number you want to save it under
 
+## Lens comp.
+
+- Contains various settings to correct your images 
+	- Shading Comp. corrects vignetting in the corners of your images
+	- Chromatic Aberration Comp. corrects color fringing in your images
+	- Distortion Comp. corrects lens barrel distortion in your images
+- https://www.youtube.com/watch?v=BzB6rbnwT7Y Turn On This Setting In Your Sony Camera to Fix Lens Distortion (Mark Bennett's Camera Crisis)
+- https://photofocus.com/photography/distortion-on-your-sony-lenses-turn-on-distortion-compensation/
