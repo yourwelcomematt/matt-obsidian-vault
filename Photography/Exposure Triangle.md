@@ -6,6 +6,7 @@
 	- Shutter speed
 	- ISO
 - Adjusting any of these settings can darken or brighten an image, however they each have their own side effects that affect the resulting image and must be taken into consideration
+- Ideally, aperture and/or shutter speed should be modified first, with ISO only being modified if you have to
 
 
 ## Aperture
@@ -33,3 +34,5 @@
 
 - https://www.youtube.com/watch?v=uyXiWF3mI2s How to Shoot Manual in 10 Minutes - Beginner Photography Tutorial (Hyun Ralph Jeong)
 - https://www.youtube.com/watch?v=H_W3KllKFmQ Beginner Guide To Manual Photography - How to Shoot Manual Photography For Beginners (Tech Through The Lens)
+- https://www.youtube.com/watch?v=PuE6wADvnAY What is a proper exposure? (Tech Gear Talk)
+- https://www.youtube.com/watch?v=_lZvF-YyP0s The Challenges of High-Speed Filming (The Slow Mo Guys 2)

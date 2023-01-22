@@ -17,6 +17,7 @@
 
 ## Minimum Focusing Distance
 
-- The closest the lens can be to a subject and still be able to focus
+- The closest the camera can be to a subject and still be able to focus
+- Measured from the sensor, not the lens
 - Usually marked on the side of the lens, along with the word "macro" or a flower symbol
 - In general, the shorter the focusing distance, the greater the background blur (bokeh)

@@ -1,4 +1,8 @@
-## What is sensor size?
+## What is the sensor?
+
+- The image sensor is the component in the camera that records light information and converts it into an image
+- We can see where the sensor is situated in the camera by looking for a circle symbol with a horizontal line through it on the top of the camera
+- The physical size of the image sensor is called the sensor size, and this has many effects on the images you take
 
 ## Full-Frame
 
@@ -9,7 +13,7 @@
 	- Greater detail and dynamic range
 	- Better low-light performance
 	- Less noise
-- Commonly believed to be able to achieve greater bokeh than smaller sensor sizes, however this is [[Depth of Field & Bokeh|technically not the case]].
+- Commonly believed to be able to achieve greater bokeh than smaller sensor sizes, however this is [[Bokeh|technically not the case]].
 
 ## APS-C
 
