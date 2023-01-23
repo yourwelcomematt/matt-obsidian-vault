@@ -18,4 +18,9 @@
 	* Store: Rubber Monkey
 	* Price: $144.90
 
-Running total as of 19/12/22: $466.89
+23/01/22
+* Sigma 18-50mm f2.8 lens
+	* Store: Expert Infotech
+	* Price: $814.98
+
+Running total as of 19/12/22: $1281.87

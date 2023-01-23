@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "43a9217396143395",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photography/Purchasing History.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d505ea9b94b9e0a3",
             "type": "leaf",
             "state": {
@@ -55,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photography/Lenses/Aperture.md",
+                "file": "Photography/Purchasing History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,10 +152,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8811db012c6be11e",
+  "active": "43a9217396143395",
   "lastOpenFiles": [
-    "Photography/Lenses/Bokeh.md",
     "Photography/Lenses/Aperture.md",
+    "Photography/Lenses/Bokeh.md",
     "Photography/Cameras/ISO.md",
     "Photography/Cameras/Shutter Speed.md",
     "Photography/Lenses/Focus.md",
