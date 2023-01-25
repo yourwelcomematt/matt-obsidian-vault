@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Cameras/Shutter Speed.md",
+                "file": "Recipes/Coconut Curry Kidney Beans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ae02c4079be6b7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/Chicken Manchurian.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photography/Purchasing History.md",
+                "file": "Recipes/Chicken Manchurian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +165,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "43a9217396143395",
+  "active": "0ae02c4079be6b7c",
   "lastOpenFiles": [
+    "Recipes/Coconut Curry Kidney Beans.md",
+    "Recipes/Chicken Manchurian.md",
+    "Photography/Cameras/Shutter Speed.md",
+    "Photography/Cameras/ISO.md",
+    "Photography/Exposure Triangle.md",
+    "Photography/Purchasing History.md",
     "Photography/Lenses/Aperture.md",
     "Photography/Lenses/Bokeh.md",
-    "Photography/Cameras/ISO.md",
-    "Photography/Cameras/Shutter Speed.md",
     "Photography/Lenses/Focus.md",
-    "Photography/Purchasing History.md",
-    "Photography/Sony A6000/Lens Options.md",
-    "Photography/Cameras/Sensors.md",
-    "Photography/Exposure Triangle.md",
-    "Photography/Portraits.md"
+    "Photography/Sony A6000/Lens Options.md"
   ]
 }

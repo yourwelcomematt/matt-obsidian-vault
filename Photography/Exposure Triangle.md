@@ -25,6 +25,7 @@
 
 ## ISO 
 
+- The only setting that doesn't control how much light is let into the camera
 - Higher ISO = more noise/grain
 - Lower ISO = less noise/grain
 - For more info, refer to [[ISO|this]] page

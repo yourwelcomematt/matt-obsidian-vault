@@ -58,3 +58,4 @@
 - https://www.youtube.com/watch?v=H_W3KllKFmQ Beginner Guide To Manual Photography - How to Shoot Manual Photography For Beginners (Tech Through The Lens)
 - https://www.sony.co.nz/electronics/support/articles/00018997 What is the electronic front curtain shutter function?
 - https://www.youtube.com/watch?v=CmjeCchGRQo Inside a Camera at 10,000fps - The Slow Mo Guys
+- https://www.youtube.com/watch?v=SsIEcGbwgN0 What is Shutter Speed — Camera Shutter and the Exposure Triangle Explained (StudioBinder)
