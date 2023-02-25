@@ -2,22 +2,6 @@
 
 - The aperture refers to both the the hole in the lens where light is able to enter (like the camera's pupil), and the size of said hole
 - A wider aperture results in more light being let in, and thus a brighter image, while a narrower aperture results in less light being let in, and thus darker image
-- Aperture also has the side effect of controlling the depth of field of an image - a wider aperture results in a shallower depth of field, while a narrower aperture results in a deeper depth of field
-	- A wider aperture is good for portraits (where we want the subject to be in focus and the background out of focus), while a narrower aperture is good for landscapes (where we want both the foreground and background in focus)
-
-## What is depth of field?
-
-- The depth of field of an image is the amount of background behind the point of focus that is in focus
-- Deep focus
-	- Everything is in focus
-	- Allows us to create layered images with things in the foreground, middleground, and background
-- Shallow focus
-	* Only the subject is in focus, with the rest of the image being soft/blurry/out of focus
-	* Draws attention to the subject by creating greater separation from the background
-- Soft focus
-	* No part of the image is 100% sharp
-	* Achieved via lens imperfections or diffusion filters
-	* Results in a dreamy or hazy atmosphere
 
 ## F-stop
 
@@ -31,11 +15,23 @@
 	- This is why prime lenses exist, as they can achieve a lower f-stop number for a given focal length compared to a variable aperture zoom lens
 	- Constant aperture zoom lenses have the same minimum f-stop number for all focal lengths, however they are more expensive
 
+
+## Depth of field
+
+- Aperture also has the side effect of controlling the depth of field of an image, which is the amount of background behind the point of focus that is in focus
+	- A wider aperture results in a shallower depth of field, allowing us to create images where only the subject is in focus and the background is blurry and out of focus
+	- A narrower aperture results in a deeper depth of field, allowing us to create layered images with the foreground, middleground, and background in focus
+- This is because when focusing on a subject, the light coming from it will be refracted by the lens into its focal point on the sensor, resulting in it being in focus - in contrast, all other light will have a different focal point, meaning that it will diverge before hitting the sensor or not converge, and result in it being out of focus
+	- A wider aperture lets in more diverging light from multiple angles, resulting in a shallower depth of field
+	- A narrower aperture lets in less diverging light from fewer angles, resulting in a deeper depth of field
+- A wider aperture is good for portraits (where we want the subject to be in focus and the background out of focus), while a narrower aperture is good for landscapes (where we want both the foreground and background in focus)
+
 ## Effect on sharpness
 
 - In general, using an f-stop number near the high or low end of a lens's aperture range will result in less sharp images
+- At the high end, this is due to the effects of diffraction
 - Increasing the f-stop number a bit from the lowest end will usually result in the sharpest images
-- Every lens is sharp at different f-stop numbers
+- Different lenses are sharp at different f-stop numbers
 
 
 ### References

@@ -24,3 +24,13 @@
 	* Price: $814.98
 
 Running total as of 19/12/22: $1281.87
+
+To buy:
+- Lens cleaner
+- Air/dust blower
+- Microfibre cloth
+
+Weight
+- Sony A6000 + Sigma 18-50mm f2.8 = 634g
+- Fujifilm X-T20 + Fujinon 18-55mm f2.8-4 = 693g
+- Fujifilm X-T3 + Fujinon 18-55mm f2.8-4 = 850g

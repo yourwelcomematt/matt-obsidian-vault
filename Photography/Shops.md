@@ -1,7 +1,4 @@
 - Photo Warehouse (Grey Lynn and CBD)
 - Photogear (Ponsonby)
 - Auckland Camera Centre (Mount Albert)
-- Harvey Norman
-- JB Hi Fi
-- Noel Leeming
-- PB Tech
+- Progear (Newmarket) - Sav and Matty
