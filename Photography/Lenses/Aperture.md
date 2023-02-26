@@ -25,6 +25,10 @@
 	- A wider aperture lets in more diverging light from multiple angles, resulting in a shallower depth of field
 	- A narrower aperture lets in less diverging light from fewer angles, resulting in a deeper depth of field
 - A wider aperture is good for portraits (where we want the subject to be in focus and the background out of focus), while a narrower aperture is good for landscapes (where we want both the foreground and background in focus)
+- A shallower depth of field can also be created by:
+	- Moving closer to the subject
+	- Having a greater distance between the subject and the background
+	- Using a longer focal length
 
 ## Effect on sharpness
 

@@ -10,7 +10,7 @@
 
 ## Zoom/Telephoto Lenses 
 
-- Have a focal length range, allowing them to zoom in by adjusting various lens elements 
+- Have a variable focal length, allowing them to zoom in or out by adjusting various lens elements 
 - E.g. 18-55mm
 - Advantages
 	- More versatile, as you can shoot a wide range of focal lengths without having to change your lens
@@ -19,3 +19,13 @@
 	- Have more lens elements, resulting in them producing less sharp images
 	- Have smaller apertures, meaning they are worse in low light (i.e. are slow)
 	- The more zoomed in you are, the more shaky it'll be (unless you have IS)
+
+### Parfocal zoom lenses
+
+- Able to keep the subject in relative focus while the focal length is changed
+- Not as common and very expensive
+
+### Varifocal zoom lenses
+
+- Unable to keep the subject in relative focus while the focal length is changed
+- Far more common
