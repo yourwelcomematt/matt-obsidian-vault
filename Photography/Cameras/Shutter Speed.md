@@ -109,3 +109,4 @@
 - https://www.youtube.com/watch?v=SsIEcGbwgN0 What is Shutter Speed — Camera Shutter and the Exposure Triangle Explained (StudioBinder)
 - https://en.wikipedia.org/wiki/Focal-plane_shutter
 - https://www.sony.co.nz/electronics/support/articles/00018997 Electronic Front Curtain Shutter, as well as a general focal plane shutter explanation
+- https://www.youtube.com/watch?v=5C_BOCVp02I Fujifilm X100V: What is a LEAF SHUTTER and WHY is it AWESOME? (JayRegular)

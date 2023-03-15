@@ -73,14 +73,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitar Set-Up.md",
+                "file": "Guitar/Guitar Set-Up.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cf09bf91c9d1109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fujifilm Cameras.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a3e7072848aa0df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guitar/Green Album.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -122,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288,
-    "collapsed": true
+    "width": 288
   },
   "right": {
     "id": "0ca303ee528e89fb",
@@ -139,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guitar Set-Up.md",
+                "file": "Guitar/Green Album.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,13 +189,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "28206275ee0576f5",
+  "active": "7a3e7072848aa0df",
   "lastOpenFiles": [
-    "Photography/Lenses/Types of Lenses.md",
-    "Guitar Set-Up.md",
-    "Photography/Cameras/Shutter Speed.md",
-    "Photography/Cleaning.md",
+    "Guitar/Guitar Set-Up.md",
     "Fujifilm Cameras.md",
+    "Guitar/Green Album.md",
+    "Police Report.md",
+    "Guitar",
+    "Photography/Cameras/Shutter Speed.md",
+    "Photography/Lenses/Types of Lenses.md",
+    "Photography/Cleaning.md",
     "Photography/Lenses/Aperture.md",
     "Photography/Cameras/ISO.md",
     "Photography/Taking a Photo.md",

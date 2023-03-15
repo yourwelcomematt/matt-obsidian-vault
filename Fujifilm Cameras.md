@@ -1,6 +1,4 @@
-## X-T20
-
-## X-T30
+## X-T20 / X-T30
 
 - Not that comfortable due to the smaller grip
 - Lacks ISO dial
