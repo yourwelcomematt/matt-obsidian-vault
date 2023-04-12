@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65b3f81cc58759b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/Cleaning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d505ea9b94b9e0a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/Exposure Triangle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8811db012c6be11e",
             "type": "leaf",
             "state": {
@@ -80,31 +56,31 @@
             }
           },
           {
-            "id": "2cf09bf91c9d1109",
+            "id": "403228e67baea2ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fujifilm Cameras.md",
+                "file": "Recipes/Coconut Curry Kidney Beans.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7a3e7072848aa0df",
+            "id": "7241297c215523e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitar/Green Album.md",
+                "file": "Recipes/Mixed Bean Curry.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guitar/Green Album.md",
+                "file": "Recipes/Mixed Bean Curry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,11 +165,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7a3e7072848aa0df",
+  "active": "7241297c215523e3",
   "lastOpenFiles": [
+    "Recipes/Coconut Curry Kidney Beans.md",
+    "Recipes/Mixed Bean Curry.md",
     "Guitar/Guitar Set-Up.md",
-    "Fujifilm Cameras.md",
     "Guitar/Green Album.md",
+    "Flat Hunting.md",
+    "Fujifilm Cameras.md",
+    "Packing.md",
+    "Hollie Card.md",
     "Police Report.md",
     "Guitar",
     "Photography/Cameras/Shutter Speed.md",
