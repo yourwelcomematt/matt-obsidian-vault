@@ -1,0 +1,3 @@
+- The buffer in a camera is used to store photo or video files temporarily before they are written to the SD card
+- Like the RAM (short-term memory) of the camera
+- When shooting in continuous/burst modes, the size of the buffer will determine how long you can shoot for before the buffer becomes full and the camera has to pause and write to the SD card

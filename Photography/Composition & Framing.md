@@ -1,1 +1,1 @@
-The placement of subjects within the frame
+Composition and framing refers to the placement of subjects within the frame

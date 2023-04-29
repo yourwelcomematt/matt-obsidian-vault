@@ -8,79 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8811db012c6be11e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/Lenses/Aperture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bb382f74a22f1d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/Cameras/Shutter Speed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79c79a0be2bd41cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/Lenses/Types of Lenses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "28206275ee0576f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitar/Guitar Set-Up.md",
+                "file": "Photography/Composition & Framing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "403228e67baea2ca",
+            "id": "a17a5c4eb31dd55c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Coconut Curry Kidney Beans.md",
+                "file": "Photography/Fujifilm X-T2 Owner's Manual Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7241297c215523e3",
+            "id": "1baa3bf20b3e7cd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Mixed Bean Curry.md",
+                "file": "Photography/Back Button Focusing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iso ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Mixed Bean Curry.md",
+                "file": "Photography/Back Button Focusing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,25 +129,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7241297c215523e3",
+  "active": "ae2579cfbf940fc1",
   "lastOpenFiles": [
-    "Recipes/Coconut Curry Kidney Beans.md",
-    "Recipes/Mixed Bean Curry.md",
-    "Guitar/Guitar Set-Up.md",
-    "Guitar/Green Album.md",
-    "Flat Hunting.md",
-    "Fujifilm Cameras.md",
-    "Packing.md",
-    "Hollie Card.md",
-    "Police Report.md",
-    "Guitar",
-    "Photography/Cameras/Shutter Speed.md",
-    "Photography/Lenses/Types of Lenses.md",
-    "Photography/Cleaning.md",
-    "Photography/Lenses/Aperture.md",
-    "Photography/Cameras/ISO.md",
-    "Photography/Taking a Photo.md",
-    "Coding/Bulls and Cows.md",
-    "Photography/Shops.md"
+    "Photography/Fujifilm X-T2 Owner's Manual Notes.md",
+    "Photography/Composition & Framing.md",
+    "Photography/White Balance.md",
+    "Photography/What happens when you take a photo?.md",
+    "Photography/Viewfinder.md",
+    "Photography/Tripods.md",
+    "Photography/Autofocus & Manual Focus.md",
+    "Photography/Steph's Camera Advice.md",
+    "Photography/Sony A6000 Settings.md",
+    "Photography/Light Metering.md",
+    "Photography/Sony A6000 Repair Resources.md",
+    "Photography/Sony A6000 Lens Options.md",
+    "Photography/Shutter Speed.md",
+    "Photography/Sharpness.md",
+    "Photography/SD Cards.md",
+    "Photography/Prime and Zoom Lenses.md",
+    "Photography/Portrait Photography.md",
+    "Photography/Night Photography.md",
+    "Photography/Lens Resources.md",
+    "Photography/Lens Mounts.md",
+    "Photography/Lens Hoods.md",
+    "Photography/Lens Filters.md",
+    "Photography/Landscape Photography.md",
+    "Photography/JPEG vs RAW.md",
+    "Photography/ISO.md",
+    "Photography/Image Stabilisation (IS).md",
+    "Guitar"
   ]
 }

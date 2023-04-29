@@ -1,5 +1,0 @@
-- Also known as optical stabilisation (OS), optical image stabilisation (OIS)
-- Reduces camera movement, which is especially useful when shooting handheld
-- Very handy when shooting at longer focal lengths and in low light
-- Some lenses have IS while others do not
-- If you're using a tripod, then you should turn IS off

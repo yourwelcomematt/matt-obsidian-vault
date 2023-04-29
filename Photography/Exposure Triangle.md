@@ -6,28 +6,28 @@
 	- Shutter speed
 	- ISO
 - Adjusting any of these settings can darken or brighten an image, however they each have their own side effects that affect the resulting image and must be taken into consideration
-- Ideally, aperture and/or shutter speed should be modified first, with ISO only being modified if you have to
+- Ideally, aperture and/or shutter speed should be modified first, with ISO only being modified if you have to - this is because higher ISOs introduce unwanted noise which can affect image quality
 
 
 ## Aperture
 
-- Wider aperture = shallower depth of field and more bokeh
-- Smaller aperture = deeper depth of field and less bokeh
+- Wider aperture = more light, shallower depth of field, more bokeh
+- Smaller aperture = less light, deeper depth of field, less bokeh
 - For more info, refer to [[Focal Length|this]] page
 
 
 ## Shutter speed
 
-- Higher shutter speed = frozen action
-- Lower shutter speed = motion blur
+- Higher shutter speed = less light, frozen action
+- Lower shutter speed = more light, motion blur
 - For more info, refer to [[Shutter Speed|this]] page
 
 
 ## ISO 
 
 - The only setting that doesn't control how much light is let into the camera
-- Higher ISO = more noise/grain
-- Lower ISO = less noise/grain
+- Higher ISO = brighter image, more noise/grain
+- Lower ISO = darker image, less noise/grain
 - For more info, refer to [[ISO|this]] page
 
 

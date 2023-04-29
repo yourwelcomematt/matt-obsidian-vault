@@ -1,0 +1,28 @@
+- Hold down the Menu button to lock the arrow and Q buttons (p4)
+- To remove the eye cup, press the bottom in with both thumbs and slide it up (p9)
+- One of the view modes is EVF only + eye sensor, which should be the most power-efficient (p14)
+- The DISP/BACK button can be used to cycle between indicator layouts within the EVF (p16)
+- When in the menu, use the front command dial to scroll through a page at a time (p22)
+- NP-W126 batteries (orange square) are lower capacity than NP-W126S batteries (orange circle) (p28)
+- Formatting a memory card in the camera creates a folder in which pictures are stored. Memory cards should always be formatted before first use (p39)
+- Do not use a computer to edit, delete, or rename files on a memory card, as this can cause issues with playback when the memory card is inserted back in the camera (p39)
+- Each bar in the battery indicator represents 20% (p41)
+- When in full auto mode, use the rear command dial to select other combinations of shutter speed and aperture without altering the exposure (p61)
+- When in manual mode or shutter priority, use the rear command dial to fine-tune the shutter speed by up to 2/3 of a stop above or below the current shutter speed
+- The T (time) option on the shutter speed dial allows you to use the rear command dial to select slow shutter speeds for long exposures (p64)
+- The B (bulb) option on the shutter speed dial allows you to open and close the shutter manually for a desired amount of time (p65)
+- By default, you must focus on a subject in order to see the actual depth of field, as changing the aperture does not change the depth of field on the screen/EVF until you do this - we can assign "Preview Depth of Field" to a function button in order to bypass this and show the actual depth of field without having to focus (p68)
+	- https://www.youtube.com/watch?v=I1UdUHhQfmM (pal2tech)
+- The depth of field indicator indicates what distance from the camera is in focus, with the blue line indicating the distance range, and the white line indicating the exact distance (p68)
+	- The size of the range is modified using the aperture, and the range itself is shifted closer or further away using the focus ring
+	- The depth of field scale setting determines how accurate the depth of field indicator is
+		- Setting this to Film Format Basis will cause the indicator to display a larger depth of field than there actually is - this is the setting to choose if you'll be printing your images, as humans perceive printed images to have a larger depth of field
+		- Setting this to Pixel Basis will cause the indicator to display a narrower depth of field - this is the setting to choose if you'll be viewing your images on a screen, as humans perceive images on a screen to have a narrower depth of field
+	- https://www.youtube.com/watch?v=5nxCHraMxmc (pal2tech)
+- Change "PREVIEW EXP./WB IN MANUAL MODE" to off when using the flash, as the screen/EVF will be too dark to see anything - otherwise, leave it on (p71)
+- AF-S locks focus onto stationary subjects, while AF-C tracks moving subjects (p73)
+- Pre-AF causes focus to be continually adjusted even when the focus button has not been pressed (p73)
+- While Single Point and Zone focus modes cause the camera to focus where you choose, Wide /Tracking focus mode pretty much leaves it up to the camera to decide where to focus (usually high-contrast subjects), which makes it less accurate (p75)
+- When in Single Point, Zone, or All focus mode, press the rear command dial or joystick, then rotate the dial to cycle through different frame sizes, press the dial to restore the default size, or press the joystick to return to the centre focus point, then half-press the shutter button to exit (p78)
+- Choosing a higher number of focus points in AF/MF settings will enable contrast-based points in addition to hybrid (phase + contrast) points, the former of which are represented by smaller squares (p79)
+- When high-speed shooting (CH) is enabled, the number of autofocus points available in AF-C will drop (p80)

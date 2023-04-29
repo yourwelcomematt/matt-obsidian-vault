@@ -1,9 +1,0 @@
-- The mount is the mechanism through which the lens is able to attach to and communicate with the camera body
-- In general, a lens built for a specific mount will not work properly when used on another mount
-- Different brands have different mounting systems:
-	- Sony - E mount
-	- Canon - RF mount
-	- Nikon - Z mount
-	- Fujifilm - XF mount
-- Sony, Canon, and Nikon each have different mounting systems for full-frame and cropped sensor cameras
-	- A full-frame lens can be used on a cropped sensor camera, however since the image is cropped you won't be taking full advantage of the lens
