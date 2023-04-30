@@ -2,8 +2,8 @@
 
 - Back button focusing is a focusing technique that involves decoupling the act of focusing from the shutter button
 - Traditionally, half-pressing the shutter button causes the camera to focus, with a full press capturing the image
-- The downside to this is that if you want to take multiple shots of a certain focus point, then you need to refocus every time you press the shutter
-- Back button focusing allows you to only focus once before firing multiple shots
+- The downside to this is that if you want to take multiple shots of a certain focus point, then the camera will refocus every time you press the shutter
+- Back button focusing allows you to only have to focus once before firing multiple shots
 
 ## Enabling back button focusing
 

@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28206275ee0576f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/Composition & Framing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a17a5c4eb31dd55c",
             "type": "leaf",
             "state": {
@@ -32,12 +20,36 @@
             }
           },
           {
+            "id": "28206275ee0576f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photography/Composition & Framing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1baa3bf20b3e7cd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Photography/Back Button Focusing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "839f4286876e636a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photography/Pre-Focusing.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,34 +141,37 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ae2579cfbf940fc1",
+  "active": "1baa3bf20b3e7cd0",
   "lastOpenFiles": [
     "Photography/Fujifilm X-T2 Owner's Manual Notes.md",
     "Photography/Composition & Framing.md",
+    "Photography/Back Button Focusing.md",
+    "Photography/Pre-Focusing.md",
+    "Photography/ISO.md",
+    "Photography/Shutter Speed.md",
+    "Shutter Angles and Exposure Time.png",
+    "Photography/Aperture.md",
+    "Photography/Focal Length.md",
+    "Photography/Prime and Zoom Lenses.md",
+    "Photography/Anamorphic Lenses.md",
+    "Photography/Lens Filters.md",
+    "Photography/Bokeh.md",
+    "What-is-Bokeh-Bokeh-Example-Image.jpg",
+    "What-is-Depth-of-Field-Diagram.jpg",
+    "Photography/Exposure Triangle.md",
+    "What-is-the-Exposure-Triangle-StudioBinder-Reference-Chart.jpg",
+    "Photography/Lens Flares.md",
+    "Photography/Chromatic Aberration.md",
+    "Photography/Lens Breathing.md",
+    "Photography/Autofocus & Manual Focus.md",
     "Photography/White Balance.md",
     "Photography/What happens when you take a photo?.md",
     "Photography/Viewfinder.md",
     "Photography/Tripods.md",
-    "Photography/Autofocus & Manual Focus.md",
     "Photography/Steph's Camera Advice.md",
     "Photography/Sony A6000 Settings.md",
     "Photography/Light Metering.md",
     "Photography/Sony A6000 Repair Resources.md",
-    "Photography/Sony A6000 Lens Options.md",
-    "Photography/Shutter Speed.md",
-    "Photography/Sharpness.md",
-    "Photography/SD Cards.md",
-    "Photography/Prime and Zoom Lenses.md",
-    "Photography/Portrait Photography.md",
-    "Photography/Night Photography.md",
-    "Photography/Lens Resources.md",
-    "Photography/Lens Mounts.md",
-    "Photography/Lens Hoods.md",
-    "Photography/Lens Filters.md",
-    "Photography/Landscape Photography.md",
-    "Photography/JPEG vs RAW.md",
-    "Photography/ISO.md",
-    "Photography/Image Stabilisation (IS).md",
     "Guitar"
   ]
 }

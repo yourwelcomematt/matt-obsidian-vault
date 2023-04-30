@@ -51,6 +51,7 @@
 	- Found in all cameras with CMOS sensors
 	- Can result in images where the bottom part of a fast-moving subject is further ahead of the top part, as they were taken at different times
 - A global shutter takes the whole image at the same time (i.e. the sensor switches completely on and off), however this is not very common in consumer cameras
+	- Downsides are that they often have a lower dynamic range and don't work as well in low-light situations
 
 ## Mechanical vs electronic shutters
 
@@ -58,6 +59,7 @@
 	- Electronic shutters can achieve faster shutter speeds
 - Rolling shutter
 	- Electronic shutters are far more susceptible to rolling shutter, where fast-moving subjects are distorted
+	- This is because a mechanical shutter gives the sensor pixels extra time to record light information
 - Life span
 	- Mechanical shutters have a shorter life span due to their mechanical parts
 - EVF
@@ -75,26 +77,41 @@
 	- Mechanical shutters allow you to use a flash at faster shutter speeds
 - Video
 	- Electronic shutters enable video shooting
+- Battery life
+	- Mechanical shutters use up less battery than electronic shutters
 
 
 ## What is shutter speed?
 
 - The amount of time that the shutter is retracted for is called the shutter speed, and this determines how long the sensor is exposed to light (i.e. the exposure time)
 - Shutter speed is expressed in seconds (e.g. 3) or fractions of a second (e.g. 1/30), the former being slower and the latter being faster 
-- Your choice of shutter speed will depend on how much light you need and what you're shooting
-- Fast shutter speed
-	- Freezes fast action
-	- Lets in less light, resulting in darker images
-	- Better for fast-moving subjects (e.g. children, animals, sports, cars)
-- Slow shutter speed
-	- Captures motion blur
-	- Lets in more light, resulting in brighter images
-	- Better for still or slow-moving subjects (e.g. landscapes), or long exposures (e.g., light trails)
+- A faster shutter speed lets in less light, while a slower shutter speed lets in more light
+
+### Motion blur
+
+- The main side effect of shutter speed is motion blur - a faster shutter speed reduces motion blur and freezes moving subjects, while a slower shutter speed increases motion blur
+- As such, a faster shutter speed is better for fast-moving subjects (e.g. children, animals, sports, cars) or when the camera is likely to move, while a slower shutter speed is better for still/slow-moving subjects (e.g. landscapes), long exposures (e.g., light trails, smoothing of clouds or water), or when the camera is unlikely to move
 - 1/50 or 1/60 is a good baseline shutter speed, but it really depends on your lens's focal length
 	- The longer the lens is, the more difficult it is to keep it steady
 	- As such, a longer lens requires a faster shutter speed to ensure that images don't come out blurry
 	- A good rule of thumb is to not go lower than 1 / focal length - 1 / 2 x the focal length is pretty safe
 	- When filming video, you should use a shutter speed that is twice the number of frames per second you're filming in, as this produces natural-looking motion blur
+
+## What is shutter angle?
+
+- Shutter angle measures the same thing as shutter speed (how long the sensor or film is exposed to light), but just in degrees instead of time
+- The measurement of choice for filmmaking, as it has its roots in old cinema film cameras that used a rotary shutter
+	- The rotary shutter was a disc that covered the film and prevented light from hitting it (just like how a modern shutter covers the sensor), except for a configurable angled gap that would let light pass through
+	- When the camera was running, this disc would rotate in sync with the film, completing one rotation for each frame of film
+	- For each rotation, light was able to pass through the gap and expose the frame of film for an amount of time corresponding to the size of the gap
+	- This gap took up a certain number of degrees of the disc, with the most common being 180 degrees, which meant that the disc was a semicircle and would expose each frame to light for half of a rotation
+	- Larger shutter angles (e.g., 360 degrees) exposed the frame to more light, while smaller shutter angles (e.g., 90 degrees) exposed the frame to less light
+	- A shutter angle of 180 degrees produces motion blur that is considered to be most natural to the human eye
+	- To achieve the same look with a camera that uses shutter speed instead of shutter angle, we should use a shutter speed that is twice the FPS - in other words, 1/48 of a second
+	- This is because at the default cinema frame rate 24 FPS, each frame lasts for 1/24 of a second, and with a 180 degree shutter, each frame is only exposed to light for half a rotation - half of 1/24 of a second gives us a 1/48 of a second exposure time for each frame, and 48 is 2 x 24, giving rise to the aforementioned rule
+- The benefit of using shutter angle over shutter speed for video is that it removes the need to calculate and adjust the shutter speed whenever the frame rate changes, as the camera will automatically adjust the shutter speed to maintain the desired shutter angle 
+
+![[Shutter Angles and Exposure Time.png]]
 
 
 ## What is shutter count?
@@ -115,3 +132,5 @@
 - https://en.wikipedia.org/wiki/Focal-plane_shutter
 - https://www.sony.co.nz/electronics/support/articles/00018997 Electronic Front Curtain Shutter, as well as a general focal plane shutter explanation
 - https://www.youtube.com/watch?v=5C_BOCVp02I Fujifilm X100V: What is a LEAF SHUTTER and WHY is it AWESOME? (JayRegular)
+- https://www.studiobinder.com/blog/what-is-shutter-speed/
+- https://www.youtube.com/watch?v=X4vg1Qmb0Eg&t=1s DPReview TV: Why Shutter Angle Is Better Than Shutter Speed (for video)

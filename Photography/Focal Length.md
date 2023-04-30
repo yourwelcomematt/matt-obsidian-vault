@@ -22,8 +22,7 @@
 
 - Focal length range: 24-35mm
 - Great for capturing wide shots without distortion
-- Can create distance between objects or people when used in tight spaces, allowing it to influence the viewer's perspective
-- Results in a stylised look
+- Increases the perceived distance (depth) between the foreground and the background
 - Good for landscape and architectural photography
 
 ### Standard / Normal
@@ -37,7 +36,8 @@
 
 - Focal length range: 70mm >
 - Used to capture distant subjects, making the viewer feel like they are observing the scene from afar
-- Compresses distance between the foreground and the background and flattens space, achieving the opposite effect than wide angle lenses
+- Compresses the perceived distance (depth) between the foreground and the background and flattens space, achieving the opposite effect than wide angle lenses
+- Shakiness becomes more evident, thus requiring image stabilisation or a tripod
 
 ### Macro / Micro
 
@@ -49,6 +49,8 @@
 	- 5:1 is where the size of the image captured is 5x larger than in real life
 - Minimum focusing distance
 	- The closest the lens can be to the subject and still be able to focus
+	- Macro lenses have a short minimum focusing distance, which also results in a very shallow depth of field, which may be undesirable
+	- Increasing this depth of field requires stopping down the aperture, meaning that macro lenses are best used in well-lit environments; this is also because the camera itself can block some of the light, in which case a ring light can help
 
 ### Tilt Shift
 

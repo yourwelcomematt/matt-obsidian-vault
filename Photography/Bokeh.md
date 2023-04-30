@@ -1,9 +1,19 @@
 ## What is bokeh?
 
-- Bokeh is the natural background blur that you get when focusing on a foreground subject, which is the result of a shallow depth of field
-- The smaller the aperture, the shallower the depth of field and the greater the bokeh
+- Bokeh (pronounced bo-kay) is the natural background blur that you get when focusing on a foreground subject, which is the result of a shallow depth of field
+- It also refers to the quality of out-of-focus points of light, which become circles in spherical lenses and ovals in anamorphic lenses
+
+## Achieving bokeh
+
+- The wider the aperture, the shallower the depth of field and the greater the bokeh
 - The greater the focal length, the greater the bokeh (although to a lesser extent than aperture)
 - As such, the lens that will give you the most bokeh will be a high focal length, low aperture lens (e.g., a 56mm f1.4 lens)
+- The greater the distance between the subject and the background, the greater the bokeh
+- The smaller the distance between the camera and the subject, the greater the bokeh
+- The shape of the bokeh balls is influenced by the type of lens (i.e., spherical or anamorphic) and the shape of the lens aperture blades
+
+![[What-is-Bokeh-Bokeh-Example-Image.jpg]]
+
 
 ## Full-Frame vs APS-C bokeh
 
@@ -15,4 +25,5 @@
 
 
 ### References
+- https://www.studiobinder.com/blog/what-is-bokeh-effect/
 - https://www.youtube.com/watch?v=P-hyZfkIqMg FULL FRAME vs CROP SENSOR - Sony A6400 VS A7III - Tubenoob (MARK10)

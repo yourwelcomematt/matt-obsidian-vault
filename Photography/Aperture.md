@@ -32,6 +32,9 @@
 	- Having a greater distance between the subject and the background
 	- Using a longer focal length (e.g., 85mm for portraits)
 
+![[What-is-Depth-of-Field-Diagram.jpg]]
+
+
 ## Effect on sharpness
 
 - In general, using an f-stop number near the high or low end of a lens's aperture range will result in less sharp images
@@ -43,3 +46,5 @@
 ### References
 
 - https://www.youtube.com/watch?v=kDyQ0e5WCAs F-Stops Explained - Camera Lens Tutorial (steeletraining)
+- https://www.studiobinder.com/blog/what-is-aperture/
+- https://www.studiobinder.com/blog/what-is-depth-of-field-definition

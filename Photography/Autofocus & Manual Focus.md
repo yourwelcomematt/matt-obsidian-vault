@@ -7,9 +7,9 @@
 ### Camera autofocus modes
 
 - Single autofocus (AF-S) will cause the camera to lock focus on a specific subject or part of the frame, and not refocus even if the camera or subject moves
-	- This makes this mode more suitable for stationary objects
+	- This makes this mode more suitable for stationary objects, as well as objects moving in 2D space
 - Continuous autofocus (AF-C) will cause the camera to focus on and track a specific subject or part of the frame, in order to ensure that it is always in focus 
-	- This makes this mode more suitable for moving objects
+	- This makes this mode more suitable for objects moving in 3D space 
 
 ### Camera autofocus area options
 
@@ -18,8 +18,10 @@
 	- Great for portraits
 - Zone allows us to move a larger autofocus square containing multiple focus points around the frame, and when autofocus is activated the camera will focus on whatever is within that square 
 	- Good for focusing on moving subjects  
+	- Not as good for precision, as the camera can still get confused
 - Wide uses all available focus points and leaves it up to the camera to automatically detect and focus on a subject within the entire frame 
 	- Least precise, although brands such as Sony and Canon excel in this area
+	- Best for subjects that are against a high contrast background
 
 ## Manual Focus
 
