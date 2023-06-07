@@ -20,6 +20,66 @@
             }
           },
           {
+            "id": "39fd213be77a2270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/Cuban Black Beans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b09507c618147ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pokemon Platinum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "557de36cc2e98e75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipes/Braised Beef Brisket and Potatoes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3dbb83cc24e3caef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photography/Autofocus & Manual Focus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3065839f76a5ae96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photography/Bracketing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "28206275ee0576f5",
             "type": "leaf",
             "state": {
@@ -56,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,12 +153,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "aca21bce9276117e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 288
+    "width": 288,
+    "collapsed": true
   },
   "right": {
     "id": "0ca303ee528e89fb",
@@ -114,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photography/Back Button Focusing.md",
+                "file": "Recipes/Braised Beef Brisket and Potatoes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,11 +210,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1baa3bf20b3e7cd0",
+  "active": "ae2579cfbf940fc1",
   "lastOpenFiles": [
+    "Pokemon Platinum.md",
+    "Recipes/Braised Beef Brisket and Potatoes.md",
+    "Recipes/Cuban Black Beans.md",
+    "Recipes/Mixed Bean Curry.md",
     "Photography/Fujifilm X-T2 Owner's Manual Notes.md",
-    "Photography/Composition & Framing.md",
+    "Photography/Autofocus & Manual Focus.md",
+    "Photography/White Balance.md",
+    "Photography/Bracketing.md",
+    "Photography/Light Metering.md",
+    "Photography/Exposure Compensation.md",
     "Photography/Back Button Focusing.md",
+    "README.md",
+    "Photography/Composition & Framing.md",
     "Photography/Pre-Focusing.md",
     "Photography/ISO.md",
     "Photography/Shutter Speed.md",
@@ -163,15 +242,6 @@
     "Photography/Lens Flares.md",
     "Photography/Chromatic Aberration.md",
     "Photography/Lens Breathing.md",
-    "Photography/Autofocus & Manual Focus.md",
-    "Photography/White Balance.md",
-    "Photography/What happens when you take a photo?.md",
-    "Photography/Viewfinder.md",
-    "Photography/Tripods.md",
-    "Photography/Steph's Camera Advice.md",
-    "Photography/Sony A6000 Settings.md",
-    "Photography/Light Metering.md",
-    "Photography/Sony A6000 Repair Resources.md",
     "Guitar"
   ]
 }

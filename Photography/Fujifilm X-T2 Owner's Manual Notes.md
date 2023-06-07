@@ -8,12 +8,12 @@
 - Do not use a computer to edit, delete, or rename files on a memory card, as this can cause issues with playback when the memory card is inserted back in the camera (p39)
 - Each bar in the battery indicator represents 20% (p41)
 - When in full auto mode, use the rear command dial to select other combinations of shutter speed and aperture without altering the exposure (p61)
-- When in manual mode or shutter priority, use the rear command dial to fine-tune the shutter speed by up to 2/3 of a stop above or below the current shutter speed
+- When in manual mode or shutter priority, use the rear command dial to fine-tune the shutter speed by up to 2/3 of a stop above or below the current shutter speed on the shutter dial
 - The T (time) option on the shutter speed dial allows you to use the rear command dial to select slow shutter speeds for long exposures (p64)
 - The B (bulb) option on the shutter speed dial allows you to open and close the shutter manually for a desired amount of time (p65)
-- By default, you must focus on a subject in order to see the actual depth of field, as changing the aperture does not change the depth of field on the screen/EVF until you do this - we can assign "Preview Depth of Field" to a function button in order to bypass this and show the actual depth of field without having to focus (p68)
+- By default, you must refocus on a subject in order to see the new depth of field if you've changed the aperture - we can assign "Preview Depth of Field" to a function button in order to bypass this and show the actual depth of field without having to refocus (p68)
 	- https://www.youtube.com/watch?v=I1UdUHhQfmM (pal2tech)
-- The depth of field indicator indicates what distance from the camera is in focus, with the blue line indicating the distance range, and the white line indicating the exact distance (p68)
+- The depth of field indicator indicates what distance from the camera is in focus, with the blue line indicating the depth of field, and the white line indicating the exact distance (p68)
 	- The size of the range is modified using the aperture, and the range itself is shifted closer or further away using the focus ring
 	- The depth of field scale setting determines how accurate the depth of field indicator is
 		- Setting this to Film Format Basis will cause the indicator to display a larger depth of field than there actually is - this is the setting to choose if you'll be printing your images, as humans perceive printed images to have a larger depth of field
@@ -21,8 +21,31 @@
 	- https://www.youtube.com/watch?v=5nxCHraMxmc (pal2tech)
 - Change "PREVIEW EXP./WB IN MANUAL MODE" to off when using the flash, as the screen/EVF will be too dark to see anything - otherwise, leave it on (p71)
 - AF-S locks focus onto stationary subjects, while AF-C tracks moving subjects (p73)
-- Pre-AF causes focus to be continually adjusted even when the focus button has not been pressed (p73)
+- Pre-AF causes focus to be continually adjusted even when the focus button has not been pressed - this should generally not be used if you want full control over your camera (p73)
 - While Single Point and Zone focus modes cause the camera to focus where you choose, Wide /Tracking focus mode pretty much leaves it up to the camera to decide where to focus (usually high-contrast subjects), which makes it less accurate (p75)
 - When in Single Point, Zone, or All focus mode, press the rear command dial or joystick, then rotate the dial to cycle through different frame sizes, press the dial to restore the default size, or press the joystick to return to the centre focus point, then half-press the shutter button to exit (p78)
 - Choosing a higher number of focus points in AF/MF settings will enable contrast-based points in addition to hybrid (phase + contrast) points, the former of which are represented by smaller squares (p79)
-- When high-speed shooting (CH) is enabled, the number of autofocus points available in AF-C will drop (p80)
+- When high-speed shooting (CH) is enabled and the camera is in AF-C, the number of autofocus points available will drop, as the camera cannot handle the high processing load of carrying out both high-speed shooting and subject tracking across the entire frame (p80)
+- Rotate the manual focus ring to the left to reduce the focus distance, and right to increase it (this can be reversed in Button/Dial settings -> Focus Ring) (p82)
+- Autofocus can be momentarily enabled from Manual focus mode by assigning AF-ON to a function button (can set this to either single or continuous in AF/MF setting -> Instant AF setting) (p83)
+- Using the L (low - 100) ISO setting reduces dynamic range, as it is below the native ISO of the camera (p86)
+- When using Auto ISO, the camera may still choose a shutter speed below the minimum shutter speed if images would still be underexposed at the maximum ISO (p87)
+- The selected option on the metering dial is disabled when Face/Eye Detection is on, as the camera will automatically meter from the face/eye (p88)
+- When the exposure compensation dial is set to C, then exposure compensation can be adjusted using the front command dial, and you can switch between aperture and exposure compensation by pressing the dial (p89)
+- You can shoot off-centre subjects by focusing on them with the shutter button (which will lock focus and exposure), recomposing, and pressing the shutter button (p90)
+- Bracketing can be used to obtain three versions of a given image at different exposures, ISOs, film simulations, white balances, and dynamic ranges (p93-94)
+- Use the Multiple Exposure setting on the drive dial (represented by two rectangles) to superimpose one image onto another (p97)
+	- If you want to retake a shot, press the left arrow button
+	- If you want to save the first shot and exit, press the Disp/Back button
+- Use the Advanced Filter setting on the drive dial (represented by ADV.) to apply an advanced filter, which can be changed in Shooting settings -> Drive settings (p99-100)
+	- E.g., toy camera, miniature, soft focus, partial colour (can specify which colour)
+- When using the Panorama setting on the drive dial (represented by a rectange with inward curves on the top and bottom), you only have to press the shutter button once (p101-103)
+	- For best results, use a lens with a 50mm full-frame equivalent focal length or less, and a tripod
+	- If the shutter button is pressed again before the panorama is finished, then shooting will end and nothing will be recorded
+- The dynamic range settings controls how much detail is retained both in the highlights and the shadows (p119)
+	- A higher percentage will retain more detail in both but decrease contrast, while a lower percentage will retain less detail in both but increase contrast
+	- Higher percentages are recommended for high contrast scenes, however noise may appear at these percentages
+	- Lower percentages are recommended for indoor scenes or those under overcast skies
+	- If Auto is selected, then the camera will choose either 100% or 200% based on the subject and shooting conditions
+	- 200% is available at ISO 400 and above, while 400% is available at ISO 800 and above
+- The flower icon in the White Balance settings is used to measure a custom white balance (p122)
