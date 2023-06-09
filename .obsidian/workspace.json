@@ -20,42 +20,6 @@
             }
           },
           {
-            "id": "39fd213be77a2270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Cuban Black Beans.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b09507c618147ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pokemon Platinum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "557de36cc2e98e75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Braised Beef Brisket and Potatoes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3dbb83cc24e3caef",
             "type": "leaf",
             "state": {
@@ -115,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288,
-    "collapsed": true
+    "width": 288
   },
   "right": {
     "id": "0ca303ee528e89fb",
@@ -183,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Braised Beef Brisket and Potatoes.md",
+                "file": "Photography/Fujifilm X-T2 Owner's Manual Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,9 +172,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ae2579cfbf940fc1",
+  "active": "a17a5c4eb31dd55c",
   "lastOpenFiles": [
+    "README.md",
     "Pokemon Platinum.md",
+    "Miscellaneous",
     "Recipes/Braised Beef Brisket and Potatoes.md",
     "Recipes/Cuban Black Beans.md",
     "Recipes/Mixed Bean Curry.md",
@@ -223,7 +187,6 @@
     "Photography/Light Metering.md",
     "Photography/Exposure Compensation.md",
     "Photography/Back Button Focusing.md",
-    "README.md",
     "Photography/Composition & Framing.md",
     "Photography/Pre-Focusing.md",
     "Photography/ISO.md",
@@ -241,7 +204,6 @@
     "What-is-the-Exposure-Triangle-StudioBinder-Reference-Chart.jpg",
     "Photography/Lens Flares.md",
     "Photography/Chromatic Aberration.md",
-    "Photography/Lens Breathing.md",
     "Guitar"
   ]
 }
