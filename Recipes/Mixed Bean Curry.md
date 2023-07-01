@@ -24,6 +24,6 @@ https://www.youtube.com/watch?v=y1RF-ZOkNjM Mixed beans curry with potato | Bean
 4) Add the potato and cook until the outside starts to go translucent
 5) Add the mixed beans and mix
 6) Add the turmeric powder, chili powder, cumin powder, coriander powder, garlic and ginger paste, and tomato, and mix
-7) Add the water and some salt, then simmer with the lid on until the potatoes are cooked
+7) Add the water and some salt, then simmer with the lid on until the potatoes are cooked - around 25 minutes
 8) Add more water for a soupier consistency if required
 9) Add the garam masala and salt to taste, then serve
