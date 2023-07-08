@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Mapo Tofu.md",
+                "file": "Recipes/Kimchi Fried Rice.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Mapo Tofu.md",
+                "file": "Recipes/Kimchi Fried Rice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,8 +187,9 @@
   },
   "active": "b61b11dd20a2d37f",
   "lastOpenFiles": [
-    "Recipes/Sausage Stew.md",
     "Recipes/Mapo Tofu.md",
+    "Recipes/Kimchi Fried Rice.md",
+    "Recipes/Sausage Stew.md",
     "Photography/Fujifilm X-T2 Owner's Manual Notes.md",
     "Recipes/Mixed Bean Curry.md",
     "Recipes/To research.md",
@@ -214,7 +215,6 @@
     "Photography/Focal Length.md",
     "Photography/Prime and Zoom Lenses.md",
     "Photography/Anamorphic Lenses.md",
-    "Photography/Lens Filters.md",
     "What-is-Bokeh-Bokeh-Example-Image.jpg",
     "What-is-Depth-of-Field-Diagram.jpg",
     "What-is-the-Exposure-Triangle-StudioBinder-Reference-Chart.jpg",
