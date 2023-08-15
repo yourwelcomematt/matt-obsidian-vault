@@ -61,38 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Back Button Focusing.md",
+                "file": "Guitar/Luthiers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "839f4286876e636a",
+            "id": "ad2c46c9f86e9b05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Pre-Focusing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "195c3b2cac455043",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Egg and Tomato Tofu.md",
+                "file": "Recipes/Sundubu Jjigae.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -158,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Egg and Tomato Tofu.md",
+                "file": "Recipes/Sundubu Jjigae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,12 +173,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "195c3b2cac455043",
+  "active": "ad2c46c9f86e9b05",
   "lastOpenFiles": [
-    "Miscellaneous/Police Report.md",
-    "Recipes/Egg and Tomato Tofu.md",
-    "Miscellaneous/Hollie Card.md",
     "Recipes/Sichuan Jiachang Tofu.md",
+    "Recipes/Sundubu Jjigae.md",
+    "Recipes/Mixed Bean Curry.md",
+    "Guitar/Luthiers.md",
+    "Photography/Back Button Focusing.md",
+    "Photography/Focus & Recompose.md",
+    "Photography/Pre-Focusing.md",
+    "Recipes/Egg and Tomato Tofu.md",
+    "Miscellaneous/Police Report.md",
+    "Miscellaneous/Hollie Card.md",
     "Photography/Fujifilm X-T2 Guides.md",
     "Recipes/Mapo Tofu.md",
     "Amp Research.md",
@@ -203,17 +197,11 @@
     "Recipes/Greek Fava.md",
     "Recipes/Kimchi Fried Rice.md",
     "Recipes/Sausage Stew.md",
-    "Recipes/Mixed Bean Curry.md",
     "Recipes/To research.md",
     "Recipes/Kimchi Jjigae.md",
     "Recipes/Dakjjim.md",
     "README.md",
-    "Pokemon Platinum.md",
     "Miscellaneous",
-    "Recipes/Braised Beef Brisket and Potatoes.md",
-    "Recipes/Cuban Black Beans.md",
-    "Photography/Autofocus & Manual Focus.md",
-    "Photography/White Balance.md",
     "Shutter Angles and Exposure Time.png",
     "What-is-Bokeh-Bokeh-Example-Image.jpg",
     "What-is-Depth-of-Field-Diagram.jpg",
