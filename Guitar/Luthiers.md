@@ -1,4 +1,4 @@
-/.# NZ Directory
+# NZ Directory
 
 - https://mrglynspickups.com/guitar-repairs-nz-directory-2023/
 

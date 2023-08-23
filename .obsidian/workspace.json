@@ -61,26 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitar/Luthiers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad2c46c9f86e9b05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Sundubu Jjigae.md",
+                "file": "Recipes/Spicy Pork Sausage Bites.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Sundubu Jjigae.md",
+                "file": "Recipes/Spicy Pork Sausage Bites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,12 +161,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ad2c46c9f86e9b05",
+  "active": "1baa3bf20b3e7cd0",
   "lastOpenFiles": [
-    "Recipes/Sichuan Jiachang Tofu.md",
-    "Recipes/Sundubu Jjigae.md",
-    "Recipes/Mixed Bean Curry.md",
     "Guitar/Luthiers.md",
+    "Recipes/Spicy Pork Sausage Bites.md",
+    "Recipes/Sundubu Jjigae.md",
+    "Recipes/Sichuan Jiachang Tofu.md",
+    "Recipes/Mixed Bean Curry.md",
     "Photography/Back Button Focusing.md",
     "Photography/Focus & Recompose.md",
     "Photography/Pre-Focusing.md",
@@ -200,7 +189,6 @@
     "Recipes/To research.md",
     "Recipes/Kimchi Jjigae.md",
     "Recipes/Dakjjim.md",
-    "README.md",
     "Miscellaneous",
     "Shutter Angles and Exposure Time.png",
     "What-is-Bokeh-Bokeh-Example-Image.jpg",
