@@ -1,4 +1,3 @@
-
 ## Ingredients
 
 - 1 block medium-firm tofu (cubed)

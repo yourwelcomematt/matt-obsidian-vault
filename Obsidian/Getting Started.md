@@ -57,4 +57,5 @@ https://help.obsidian.md/Getting+started/Link+notes
 
 ### References
 
+- https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax
 - https://www.youtube.com/playlist?list=PL-1Nqb2waX4Vba6QDVS5rhnSb9pZGTO4b Getting Started With Obsidian (Nicole van der Hoeven)

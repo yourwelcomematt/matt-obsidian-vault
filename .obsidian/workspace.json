@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "17460e12b87374e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photography/Fujifilm X-T2 Owner's Manual Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3dbb83cc24e3caef",
             "type": "leaf",
             "state": {
@@ -37,38 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Bracketing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28206275ee0576f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/Composition & Framing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1baa3bf20b3e7cd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Spicy Pork Sausage Bites.md",
+                "file": "Recipes/Spicy Masala Pork Curry.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Spicy Pork Sausage Bites.md",
+                "file": "Recipes/Spicy Masala Pork Curry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,9 +149,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1baa3bf20b3e7cd0",
+  "active": "3065839f76a5ae96",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Recipes/Spicy Masala Pork Curry.md",
+    "Photography/Bracketing.md",
+    "Obsidian/Getting Started.md",
+    "Obsidian/Markdown.md",
+    "Recipes/Cuban Black Beans.md",
+    "Photography/Composition & Framing.md",
     "Guitar/Luthiers.md",
+    "Recipes/Egg and Tomato Tofu.md",
+    "Photography/Fujifilm X-T2 Owner's Manual Notes.md",
+    "Photography/Light Metering.md",
+    "Photography/Fujifilm X-T2 Guides.md",
+    "Photography/Lens Hoods.md",
+    "Photography/Camera Gear Purchasing History.md",
     "Recipes/Spicy Pork Sausage Bites.md",
     "Recipes/Sundubu Jjigae.md",
     "Recipes/Sichuan Jiachang Tofu.md",
@@ -171,24 +172,11 @@
     "Photography/Back Button Focusing.md",
     "Photography/Focus & Recompose.md",
     "Photography/Pre-Focusing.md",
-    "Recipes/Egg and Tomato Tofu.md",
     "Miscellaneous/Police Report.md",
     "Miscellaneous/Hollie Card.md",
-    "Photography/Fujifilm X-T2 Guides.md",
     "Recipes/Mapo Tofu.md",
     "Amp Research.md",
-    "Photography/Fujifilm X-T2 Owner's Manual Notes.md",
     "Recipes/Mongolian Beef.md",
-    "Recipes/Lamb Kebabs.md",
-    "Recipes/Chicken Adobo.md",
-    "Recipes/Cashew Chicken.md",
-    "Recipes/Dakbokkeumtang.md",
-    "Recipes/Greek Fava.md",
-    "Recipes/Kimchi Fried Rice.md",
-    "Recipes/Sausage Stew.md",
-    "Recipes/To research.md",
-    "Recipes/Kimchi Jjigae.md",
-    "Recipes/Dakjjim.md",
     "Miscellaneous",
     "Shutter Angles and Exposure Time.png",
     "What-is-Bokeh-Bokeh-Example-Image.jpg",
