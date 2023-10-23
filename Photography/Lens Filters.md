@@ -13,7 +13,11 @@
 
 ### UV filters
 
-- Used to protect the front glass element of the lens from UV damage and/or physical damage
+- Used to reduce the effect of UV light on image quality, and to protect the front glass element of the lens from physical damage
+- The UV aspect is important for film photography, but basically negligible for digital photography - as such, it's essentially like a screen protector for your phone
+- Can cause additional flaring in certain lighting conditions (e.g., at night with bright lights)
+- https://petapixel.com/uv-filter-guide/
+- https://www.alanranger.com/blogs/uv-or-not-to-uv
 
 ### ND (neutral density) filters
 

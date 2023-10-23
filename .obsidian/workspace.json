@@ -32,24 +32,24 @@
             }
           },
           {
-            "id": "3dbb83cc24e3caef",
+            "id": "c82aefe09d820083",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Autofocus & Manual Focus.md",
+                "file": "Photography/Shooting Conditions - Overcast.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3065839f76a5ae96",
+            "id": "3dbb83cc24e3caef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Spicy Masala Pork Curry.md",
+                "file": "Photography/Fujifilm X-T2 Film Simulations.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Spicy Masala Pork Curry.md",
+                "file": "Photography/Fujifilm X-T2 Film Simulations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,14 +149,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3065839f76a5ae96",
+  "active": "3dbb83cc24e3caef",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Photography/Lens Filters.md",
+    "Photography/Fujifilm X-T2 Film Simulations.md",
+    "Photography/Shooting Conditions - Harsh Light.md",
+    "Photography/Shooting Conditions - Overcast.md",
+    "Recipes/Cuban Black Beans.md",
+    "Photography/Autofocus & Manual Focus.md",
+    "Photography/Back Button Focusing.md",
+    "Photography/Pre-Focusing.md",
+    "Guitar/Green Album.md",
+    "Recipes/Sausage Stew.md",
     "Recipes/Spicy Masala Pork Curry.md",
+    "Untitled.md",
     "Photography/Bracketing.md",
     "Obsidian/Getting Started.md",
     "Obsidian/Markdown.md",
-    "Recipes/Cuban Black Beans.md",
     "Photography/Composition & Framing.md",
     "Guitar/Luthiers.md",
     "Recipes/Egg and Tomato Tofu.md",
@@ -168,15 +177,6 @@
     "Recipes/Spicy Pork Sausage Bites.md",
     "Recipes/Sundubu Jjigae.md",
     "Recipes/Sichuan Jiachang Tofu.md",
-    "Recipes/Mixed Bean Curry.md",
-    "Photography/Back Button Focusing.md",
-    "Photography/Focus & Recompose.md",
-    "Photography/Pre-Focusing.md",
-    "Miscellaneous/Police Report.md",
-    "Miscellaneous/Hollie Card.md",
-    "Recipes/Mapo Tofu.md",
-    "Amp Research.md",
-    "Recipes/Mongolian Beef.md",
     "Miscellaneous",
     "Shutter Angles and Exposure Time.png",
     "What-is-Bokeh-Bokeh-Example-Image.jpg",
