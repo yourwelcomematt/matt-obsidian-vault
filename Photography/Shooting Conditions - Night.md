@@ -13,7 +13,8 @@
 	- Use your own external light sources if necessary
 - You want night time to look like night time, not day time
 	- One option is to underexpose the overall image so that any light in the scene is properly exposed, and then bring the shadows up in editing (information is retained in the shadows better than the highlights)
-	- This means you can probably set auto ISO to a maximum of 3200 too instead of 6400
+	- This can be done either using exposure compensation or different light metering modes (e.g., spot or centre)
+	- Setting the auto ISO to a maximum of 3200 instead of 6400 would work in this scenario
 - To reduce the risk of getting a blurry image:
 	- Slow down and take your time
 	- Hold your camera firmly against you using the viewfinder, extend your your neck strap until it is taut, or lean against something

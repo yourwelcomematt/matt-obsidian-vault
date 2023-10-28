@@ -24,6 +24,11 @@
 	- Provides consistent exposure across multiple shots with the same lighting
 	- Particularly effective for landscapes and portraits of subjects dressed in black or white
 
+## Auto Exposure Lock (AE-L)
+
+- Locks the exposure, allowing you to recompose and take multiple photos with the same exposure
+- Useful whenever there's a bright light source in the scene that you want to expose for (e.g., at night)
+- Often mapped to a button which can either be held down or pressed once to lock and once to unlock
 
 ### References
 
