@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=y1RF-ZOkNjM Mixed beans curry with potato | Beans curry | Beans soup (Home kitchen7)
+   https://www.youtube.com/watch?v=y1RF-ZOkNjM Mixed beans curry with potato | Beans curry | Beans soup (Home kitchen7)
 
 ## Ingredients
 

@@ -90,9 +90,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ccd1031c8d83440b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photography/Composition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "486f1df06521e9e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photography/Editing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09c510459abfd2a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photography/ISO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -142,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288,
-    "collapsed": true
+    "width": 288
   },
   "right": {
     "id": "0ca303ee528e89fb",
@@ -159,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photography/Autofocus & Manual Focus.md",
+                "file": "Photography/ISO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,34 +221,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "28777fbff89c7d46",
+  "active": "09c510459abfd2a4",
   "lastOpenFiles": [
-    "Photography/Light Metering (Photometry).md",
-    "Photography/Autofocus & Manual Focus.md",
-    "Photography/Exposure Compensation.md",
+    "Photography/Cleaning (Lens & Sensor).md",
+    "Recipes/Mapo Tofu.md",
+    "Recipes/Middle Eastern Lentil Soup.md",
+    "Recipes/Mixed Bean Curry.md",
     "Photography/Shooting Conditions - Night.md",
-    "Photography/Aperture and Shutter Priority.md",
     "Photography/Shooting Conditions - Harsh Light.md",
-    "Photography/Shooting Conditions - Overcast.md",
+    "Photography/Editing.md",
+    "Photography/Autofocus & Manual Focus.md",
+    "Photography/Composition.md",
     "Recipes/Red Lentil Dhal.md",
+    "Recipes/Sausage Stew.md",
+    "Guitar/Amp Research.md",
+    "exposure compensation dial.md",
+    "Photography/Aperture.md",
+    "Photography/Aperture and Shutter Priority.md",
+    "Photography/Light Metering (Photometry).md",
+    "Photography/Exposure Compensation.md",
+    "Photography/Shooting Conditions - Overcast.md",
     "Photography/Fujifilm X-T2 Owner's Manual Notes.md",
     "Photography/Fujifilm X-T2 Guides.md",
-    "exposure compensation dial.md",
     "Obsidian/Markdown.md",
     "Recipes/Cuban Black Beans.md",
     "Photography/Fujifilm X-T2 Film Simulations.md",
     "Photography/Lens Filters.md",
     "Photography/Back Button Focusing.md",
     "Photography/Pre-Focusing.md",
-    "Guitar/Green Album.md",
-    "Recipes/Sausage Stew.md",
-    "Recipes/Spicy Masala Pork Curry.md",
-    "Untitled.md",
-    "Photography/Bracketing.md",
-    "Obsidian/Getting Started.md",
-    "Photography/Composition & Framing.md",
-    "Guitar/Luthiers.md",
-    "Recipes/Egg and Tomato Tofu.md",
     "Miscellaneous",
     "Shutter Angles and Exposure Time.png",
     "What-is-Bokeh-Bokeh-Example-Image.jpg",
