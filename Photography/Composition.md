@@ -2,9 +2,15 @@ Composition refers to the placement of subjects within the frame.
 
 ## Rule of Thirds
 
+- Split the scene into a 3x3 grid, and place subjects on the left corner of the bottom right square, of the right corner of the bottom left square
+
 ## Leading Lines
 
+- Any elements that lead your eye to the subject
+
 ## Framing
+
+- Involves framing your subject within other objects in the scene
 
 ## Edge Patrol
 
@@ -26,7 +32,7 @@ Composition refers to the placement of subjects within the frame.
 - The greater weight something has, the more it demands your attention
 	- Factors that carry differing weights include highlights, shadows, bright colours, details, and negative space
 	- Balance can be achieved by "balancing" these different factors in order to produce an aesthetically pleasing shot
-	- Highlights and bright colours normally carry the most weight
+	- Bright colours and highlights normally carry the most weight, followed by negative space, details, and shadows
 - Is the image top/bottom/left/right heavy? Is it pulling you to one side? Is it balanced?
 
 ## Backlighting and Sidelighting
@@ -51,3 +57,4 @@ Composition refers to the placement of subjects within the frame.
 
 - https://www.youtube.com/watch?v=hzWe2Z5sAnY Improve Your Street Photography Composition (Roman Fox)
 - https://www.youtube.com/watch?v=f2WqMrAd598 A Lesson In LIGHT (Roman Fox)
+- https://www.youtube.com/watch?v=uziLSCGEPeA A BETTER Way To Compose Your Photos (Roman Fox)

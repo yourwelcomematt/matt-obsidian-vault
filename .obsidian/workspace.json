@@ -37,62 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Shooting Conditions - Night.md",
+                "file": "Photography/Editing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "28777fbff89c7d46",
+            "id": "a12915821bb3f990",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Autofocus & Manual Focus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46b767c8f88b6c96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/Aperture and Shutter Priority.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccd1031c8d83440b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/Composition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "486f1df06521e9e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Mongolian Mince.md",
+                "file": "Recipes/Nigerian Beef Stew.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aperture prio",
+                "query": "dynamic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Mongolian Mince.md",
+                "file": "Recipes/Nigerian Beef Stew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,34 +149,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "486f1df06521e9e2",
+  "active": "a12915821bb3f990",
   "lastOpenFiles": [
     "Recipes/Red Lentil Dhal.md",
-    "Recipes/Mongolian Mince.md",
-    "Recipes/Mongolian Beef.md",
+    "Recipes/Nigerian Beef Stew.md",
+    "Recipes/Black Beans.md",
     "Photography/Editing.md",
-    "Photography/Autofocus & Manual Focus.md",
-    "Photography/Exposure Compensation.md",
-    "Photography/Light Metering (Photometry).md",
-    "Photography/ISO.md",
-    "Photography/Cleaning (Lens & Sensor).md",
-    "Recipes/Mapo Tofu.md",
     "Recipes/Middle Eastern Lentil Soup.md",
-    "Recipes/Mixed Bean Curry.md",
-    "Photography/Shooting Conditions - Night.md",
-    "Photography/Shooting Conditions - Harsh Light.md",
-    "Photography/Composition.md",
-    "Recipes/Sausage Stew.md",
-    "Guitar/Amp Research.md",
-    "exposure compensation dial.md",
-    "Photography/Aperture.md",
-    "Photography/Aperture and Shutter Priority.md",
+    "Recipes/Coconut Curry Kidney Beans.md",
     "Photography/Shooting Conditions - Overcast.md",
-    "Photography/Fujifilm X-T2 Owner's Manual Notes.md",
-    "Photography/Fujifilm X-T2 Guides.md",
-    "Obsidian/Markdown.md",
-    "Recipes/Cuban Black Beans.md",
-    "Photography/Fujifilm X-T2 Film Simulations.md",
+    "Recipes/Mixed Bean Curry.md",
+    "Photography/35mm Film Prices.md",
+    "Recipes/Braised Beef Brisket and Potatoes.md",
+    "Recipes/Sundubu Jjigae.md",
+    "Photography/Lightroom Settings.md",
+    "Recipes/Spicy Masala Pork Curry.md",
+    "Recipes/Egg and Tomato Tofu.md",
+    "Recipes/Greek Fava.md",
+    "Recipes/Dakjjim.md",
+    "Photography/Shooting Conditions - Night.md",
+    "Recipes/Chicken Adobo.md",
+    "Photography/Shooting Conditions - Harsh Light.md",
+    "Photography/Autofocus & Manual Focus.md",
+    "Photography/Printing.md",
+    "Recipes/Mongolian Beef.md",
+    "Recipes/To research.md",
+    "Recipes/Dakbokkeumtang.md",
+    "Photography/Flash Photography.md",
+    "Recipes/Sausage Stew.md",
     "Miscellaneous",
     "Shutter Angles and Exposure Time.png",
     "What-is-Bokeh-Bokeh-Example-Image.jpg",
