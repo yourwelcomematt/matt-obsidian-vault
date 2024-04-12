@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "a12915821bb3f990",
+            "id": "f845fc2337692e44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Nigerian Beef Stew.md",
+                "file": "Coding/Restaurant App Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Nigerian Beef Stew.md",
+                "file": "Coding/Restaurant App Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,21 +149,26 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a12915821bb3f990",
+  "active": "f845fc2337692e44",
   "lastOpenFiles": [
-    "Recipes/Red Lentil Dhal.md",
+    "Recipes/Mixed Bean Curry.md",
+    "Coding/Restaurant App Planning.md",
     "Recipes/Nigerian Beef Stew.md",
-    "Recipes/Black Beans.md",
+    "Recipes/Sundubu Jjigae.md",
+    "Recipes/Spicy Masala Pork Curry.md",
+    "Recipes/Dakbokkeumtang.md",
+    "Japan/Duolingo.md",
+    "Investment.md",
+    "Japan",
     "Photography/Editing.md",
+    "Recipes/Red Lentil Dhal.md",
+    "Recipes/Black Beans.md",
     "Recipes/Middle Eastern Lentil Soup.md",
     "Recipes/Coconut Curry Kidney Beans.md",
     "Photography/Shooting Conditions - Overcast.md",
-    "Recipes/Mixed Bean Curry.md",
     "Photography/35mm Film Prices.md",
     "Recipes/Braised Beef Brisket and Potatoes.md",
-    "Recipes/Sundubu Jjigae.md",
     "Photography/Lightroom Settings.md",
-    "Recipes/Spicy Masala Pork Curry.md",
     "Recipes/Egg and Tomato Tofu.md",
     "Recipes/Greek Fava.md",
     "Recipes/Dakjjim.md",
@@ -173,10 +178,6 @@
     "Photography/Autofocus & Manual Focus.md",
     "Photography/Printing.md",
     "Recipes/Mongolian Beef.md",
-    "Recipes/To research.md",
-    "Recipes/Dakbokkeumtang.md",
-    "Photography/Flash Photography.md",
-    "Recipes/Sausage Stew.md",
     "Miscellaneous",
     "Shutter Angles and Exposure Time.png",
     "What-is-Bokeh-Bokeh-Example-Image.jpg",
