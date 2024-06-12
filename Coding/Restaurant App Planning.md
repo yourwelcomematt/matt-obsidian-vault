@@ -5,6 +5,7 @@
 	- Could also have a rating system
 - Cuisine tags
 - Future features
+	- Add photos of dishes
 	- Restaurant and/or dish recommendations
 	- Price tracking
 	- Social aspect - public and private profiles
