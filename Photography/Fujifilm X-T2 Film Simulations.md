@@ -7,6 +7,16 @@
 
 ## Day Simulations
 
+King Jvpes Kodachrome
+Classic Chrome
+DR200
+H +1
+S +2
+Color +1
+Sharpness +1
+NR -1
+WB Auto
+
 ## Night Simulations
 
 ## All-Purpose Simulations

@@ -6,7 +6,7 @@
 - 3 cloves
 - 1/2 inch cinnamon bark
 - 1 tbsp garlic ginger paste
-- 1 tbsp red chili powder (can reduce this)
+- 1 tsp red chili powder
 - 1/2 tsp turmeric powder
 - 400g pork belly cut into slices/chunks
 - 1 tsp cumin powder
