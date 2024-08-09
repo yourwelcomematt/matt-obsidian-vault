@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Chickpeas in Lemon & Sesame Broth.md",
+                "file": "Recipes/Pork with Gravy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bbca8db4067baa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Restaurant App Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Chickpeas in Lemon & Sesame Broth.md",
+                "file": "Recipes/Pork with Gravy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,32 +151,32 @@
   },
   "active": "88f64159982d9d8b",
   "lastOpenFiles": [
-    "Recipes/Mixed Bean Curry.md",
-    "Recipes/Chickpeas in Lemon & Sesame Broth.md",
-    "Photography/Shooting Conditions - Harsh Light.md",
-    "Photography/Fujifilm X-T2 Film Simulations.md",
-    "Recipes/Spicy Masala Pork Curry.md",
+    "Recipes/Chicken Adobo.md",
+    "Recipes/Pork with Gravy.md",
+    "Recipes/Egg and Tomato Tofu.md",
+    "Recipes/Chinese Tofu Stew.md",
+    "Recipes/Nigerian Beef Stew.md",
+    "Coding/Photo Website.md",
+    "Coding/Restaurant App Planning.md",
+    "Recipes/Cuban Black Beans.md",
+    "Recipes/Pork Jjigae.md",
+    "Recipes/Caribbean Beans and Chicken.md",
     "Recipes/Caramelised Pork Belly.md",
     "Recipes/Braised Beef Brisket and Potatoes.md",
+    "Recipes/Spicy Masala Pork Curry.md",
+    "Recipes/Red Lentil Dhal.md",
+    "Recipes/Mapo Tofu.md",
+    "Recipes/Chickpeas in Lemon & Sesame Broth.md",
+    "Recipes/Mixed Bean Curry.md",
+    "Photography/Shooting Conditions - Harsh Light.md",
+    "Photography/Fujifilm X-T2 Film Simulations.md",
     "Sirui Anamorphic Squeeze Factors.md",
-    "Recipes/Pork Jjigae.md",
     "Trivia.md",
     "Recipes/Sichuan Jiachang Tofu.md",
-    "Recipes/Chinese Tofu Stew.md",
-    "Recipes/Mapo Tofu.md",
     "Nathaniel's House.md",
-    "Recipes/Caribbean Beans and Chicken.md",
     "Recipes/Cashew Chicken.md",
     "Recipes/Sundubu Jjigae.md",
-    "Recipes/Egg and Tomato Tofu.md",
     "Recipes/Aloo Keema.md",
-    "Photography/Editing.md",
-    "Photography/Pushing Film.md",
-    "Recipes/Red Lentil Dhal.md",
-    "Random Notes.md",
-    "Recipes/Nigerian Beef Stew.md",
-    "Coding/Restaurant App Planning.md",
-    "Recipes/Dakbokkeumtang.md",
     "Japan",
     "Miscellaneous",
     "Shutter Angles and Exposure Time.png",
