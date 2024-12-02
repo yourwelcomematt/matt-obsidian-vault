@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "88f64159982d9d8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipes/Caramelised Pork Belly.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Caramelised Pork Belly"
-            }
-          },
-          {
             "id": "9c5559c5db0c11bc",
             "type": "leaf",
             "state": {
@@ -69,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Sausage Stew.md",
+                "file": "Recipes/Eggplant w Garlic Sauce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sausage Stew"
+              "title": "Eggplant w Garlic Sauce"
             }
           },
           {
@@ -92,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,19 +181,22 @@
   },
   "active": "a4b55835b8092c2e",
   "lastOpenFiles": [
-    "PS2 Emulation on Mac.md",
-    "Recipes/Sausage Stew.md",
-    "ps2-0230a-20080220.bin",
+    "Photography/Shooting Conditions - Harsh Light.md",
     "Recipes/Caramelised Pork Belly.md",
-    "Recipes/Nigerian Beef Stew.md",
-    "Recipes/Braised Beef Brisket and Potatoes.md",
+    "Recipes/Eggplant w Garlic Sauce.md",
     "Recipes/Pork Jjigae.md",
     "Recipes/Pork Casserole.md",
+    "Recipes/Dakjjim.md",
+    "Recipes/Red Lentil Dhal.md",
+    "Recipes/Sausage Stew.md",
+    "PS2 Emulation on Mac.md",
+    "ps2-0230a-20080220.bin",
+    "Recipes/Nigerian Beef Stew.md",
+    "Recipes/Braised Beef Brisket and Potatoes.md",
     "Recipes/Middle Eastern Lentil Soup.md",
     "Recipes/Lamb Kebabs.md",
     "Recipes/Kimchi Jjigae.md",
     "Recipes/Egg and Tomato Tofu.md",
-    "Recipes/Dakjjim.md",
     "Recipes/Chickpeas in Lemon & Sesame Broth.md",
     "Recipes/Chicken Manchurian.md",
     "Recipes/Caribbean Beans and Chicken.md",
@@ -217,11 +206,8 @@
     "Random Notes.md",
     "Recipes/Mapo Tofu.md",
     "Recipes/Sticky Chinese Chicken Wings.md",
-    "Recipes/Red Lentil Dhal.md",
     "Recipes/Korean Beef & Radish Soup.md",
     "Photography/Home Film Development Equipment.md",
-    "Recipes/Coconut Curry Kidney Beans.md",
-    "Recipes/Mongolian Beef.md",
     "Japan",
     "Miscellaneous",
     "Shutter Angles and Exposure Time.png",
