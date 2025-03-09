@@ -41,26 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Mixed Bean Curry.md",
+                "file": "Photography/Pushing Film.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mixed Bean Curry"
-            }
-          },
-          {
-            "id": "b85ce097a5c4775c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photography/Nikon Film Cameras & Lenses.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nikon Film Cameras & Lenses"
+              "title": "Pushing Film"
             }
           },
           {
@@ -78,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,10 +166,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b85ce097a5c4775c",
+  "active": "9c5559c5db0c11bc",
   "lastOpenFiles": [
-    "Photography/Canon Film Cameras & Lenses.md",
+    "Recipes/Sichuan Jiachang Tofu.md",
     "Photography/Nikon Film Cameras & Lenses.md",
+    "Photography/Canon Film Cameras & Lenses.md",
     "Photography/Flying with Film.md",
     "Photography/Pre-Focusing.md",
     "Photography/Pushing Film.md",
@@ -207,7 +194,6 @@
     "Recipes/Pork Jjigae.md",
     "Recipes/Caribbean Beans and Chicken.md",
     "Recipes/Chickpeas in Lemon & Sesame Broth.md",
-    "Recipes/Coconut Curry Kidney Beans.md",
     "ps2-0230a-20080220.bin",
     "Japan",
     "Miscellaneous",

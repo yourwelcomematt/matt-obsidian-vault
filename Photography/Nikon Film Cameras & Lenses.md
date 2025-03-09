@@ -2,6 +2,8 @@
 
 ## Nikon FE/FM
 
+https://www.678vintagecameras.ca/blog/buyers-guide-nikon-fm-to-fm3a-in-between
+
 Spring ping sound when firing shutter:
 - https://www.photrio.com/forum/threads/nikon-fe2-mirror-ping.126298/
 - https://www.reddit.com/r/AnalogCommunity/comments/16ixic8/nikon_fm_shutter_ringing/
