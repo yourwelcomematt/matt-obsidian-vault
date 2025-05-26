@@ -8,6 +8,7 @@
 	- Vintage macros include Canon FD 50mm f3.5 and Nikkor 55mm f3.5, however they both need one extension tube to achieve 1:1 magnification
 - High CRI light source
 	- Cinestill one is meant to be good
+	- Negative Supply has a few options
 - Film holder
 	- Essential Film Holder
 	- Valoi 35mm Holder (also comes in 120)
@@ -48,12 +49,17 @@
 Comment from Teo Crawford's video:
 - "There's a trick to level your camera, you can use a small mirror and place it on top of where the film will be and once the reflection of your lens is in in the middle of the frame of your camera, it is perfectly leveled."
 
+Hashem talks about scanning with the emulsion side facing upwards in this video: https://www.youtube.com/watch?v=SPMekdFH900
+- Less shiny, therefore less issues with reflections
+- Sharper result from testing
+- Can curl up though
+
 ## Editing Process
 
 1) Import the images into Lightroom
 2) Use the auto white balance dropper and click on the border of the image (non-photo part of the film) to set the white balance
 3) Open the Negative Lab Pro plugin and change the following settings (if required):
-	1) Colour Model: Replicates colour profiles of different scanners. Frontier or Noritsu are good choices.
+	1) Colour Model: Replicates colour profiles of different scanners. Frontier or Noritsu are good choices for colour film. Choose B+W for black and white film.
 	2) Pre-Saturation: Can be left as default but Teo Crawford said to use the highest setting, as the default can be a bit desaturated.
 	3) Border Buffer: Choose a value that removes the border from around the image. This ensures that the conversion is not affected by the border.
 4) Click "Convert Negatives"
