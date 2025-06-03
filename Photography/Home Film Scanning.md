@@ -49,6 +49,9 @@
 Comment from Teo Crawford's video:
 - "There's a trick to level your camera, you can use a small mirror and place it on top of where the film will be and once the reflection of your lens is in in the middle of the frame of your camera, it is perfectly leveled."
 
+Also from Kyle's X-T4 scanning video:
+- "If you line your lens/camera up perfectly you will get even better results. Use a mirror on top of your negative holder, and then line the centre focus point up with the centre of the lens. I too use the 7Artisans, and this line up trick gives cracking results! Also, focus at f2.8 on the grain, then take the shots at f8."
+
 Hashem talks about scanning with the emulsion side facing upwards in this video: https://www.youtube.com/watch?v=SPMekdFH900
 - Less shiny, therefore less issues with reflections
 - Sharper result from testing
