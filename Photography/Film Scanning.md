@@ -1,15 +1,29 @@
 ## Equipment
 
 - Digital camera
-	- Already have - Fujifilm X-T2
-- Macro lens w/ 1:1 magnification 
+	- Fujifilm X-T2
+- Macro lens w/ 1:1 magnification for 35mm
+	- Note that for smaller sensor sizes you don't necessarily need 1:1 magnification, as this would result in the image being bigger than the sensor itself
+		- E.g., for APS-C you only need 1:1.5 magnification, as the sensor is 1.5x smaller than a full-frame sensor
+		- However, it can be helpful having greater magnification than what is required, as you can take multiple pictures of an image and stitch them together to get higher resolution
+		- You can also adjust the focus to get less magnification
+		- https://www.reddit.com/r/AnalogCommunity/comments/1ghy42a/deleted_by_user/
+		- https://www.reddit.com/r/AnalogCommunity/comments/t5teyu/apcc_dslr_scanning_35mm_film_do_i_need_an/
+		- https://www.dpreview.com/forums/thread/4512290
 	- TTartisan 40mm f2.8
+		- 1:1 magnification
 		- https://www.reddit.com/r/fujifilm/comments/15kffp3/experience_on_ttartisan_40mm_macro_for_dslr/
-		- Apparently there can be issues with internal reflections causing a loss of contrast (see Micael Widell's video)
+		- https://www.youtube.com/watch?v=QjRsoiNGF4A
+		- Corner sharpness is a lot better than the 7Artisans lens
+		- Apparently there can be issues with internal reflections causing a loss of contrast (see Micael Widell's video), although this may not be an issue with film scanning as light is only coming directly into the lens and not from off angles
+		- https://www.youtube.com/watch?v=82_Qw_rzDJw
 	- 7Artisans 60mm f2.8 v2
+		- 1:1 magnification
+		- Corner sharpness isn't very good
 	- Canon FD 50mm f3.5
 		- 1:2 magnification
 		- Needs FD-25 extension tube for 1:1 magnification
+		- https://www.reddit.com/r/AnalogCommunity/comments/pyqpth/would_a_canon_eos_m3_and_a_canon_fd_50mm_f35/
 	- Nikkor 55mm f3.5 or f2.8
 		- 1:2 magnification
 		- Needs PK-13 extension tube for 1:1 magnification

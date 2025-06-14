@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Home Film Scanning.md",
+                "file": "Photography/Film Scanning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Film Scanning"
+              "title": "Film Scanning"
             }
           },
           {
@@ -169,7 +169,7 @@
   "active": "cab3fbb99c3bc486",
   "lastOpenFiles": [
     "Photography/Lens Filters.md",
-    "Photography/Home Film Scanning.md",
+    "Photography/Film Scanning.md",
     "Recipes/Aloo Keema.md",
     "Recipes/Black Beans.md",
     "Recipes/Caramelised Pork Belly.md",
