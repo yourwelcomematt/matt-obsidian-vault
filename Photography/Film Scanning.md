@@ -51,6 +51,7 @@ Notes on all-in-one solutions like the Valoi Easy 35
 - FilmLab
 - Grain2Pixel
 	- From Kyle's Valoi Easy 35 video: "I don't use Lightroom but Grain2Pixel works like a charm, is free and does batches. Allows quite a lot of post conversion actions and even creates a virtual contact print."
+	- https://www.reddit.com/r/AnalogCommunity/comments/1lp8k70/comment/n0tu1mq/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 
 ## Scanning Process
 
@@ -118,3 +119,11 @@ From TTArtisan 40mm macro Reddit post:
 - Refer to Photography playlist in YouTube
 - https://www.reddit.com/r/AnalogCommunity/comments/1gggf19/i_spent_weeks_planning_my_first_dslr_film_scan_at/
 - https://www.reddit.com/r/AnalogCommunity/comments/1g196pc/what_would_i_need_to_scan_film_negatives/
+
+
+
+Film camera recommendations
+	* Olympus OM-1 or OM-2 or OM-20
+		* Small SLR option
+		* OM-1 only takes mercury batteries
+		* OM-2 takes SR44 batteries but is harder to find

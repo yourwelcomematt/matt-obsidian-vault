@@ -1,22 +1,23 @@
 https://www.youtube.com/watch?v=cmx7SEA0QeE
 
-1.5 tbsp olive oil
-1.5 tbsp brown sugar
-1.5 kg chicken
-4 cloves garlic
-1 tsp ginger
-1 onion (sliced)
-1 tomato (diced)
-Salt
-Black pepper
-Thyme
-Spring onion
-Parsley
-Vinegar
-Chili powder or fresh chili
-1 can kidney beans (rinsed)
-2 cups water
-1 cup coconut milk
+* 1.5 tbsp olive oil
+* 1.5 tbsp brown sugar
+* 1.5 kg chicken
+* 4 cloves garlic
+* 1 tsp ginger
+* 1 onion (sliced)
+* 1 tomato (diced)
+* Green seasoning
+	* Salt
+	* Black pepper
+	* Thyme
+	* Spring onion
+	* Parsley
+	* Vinegar
+* Chili powder or fresh chili
+* 1 can kidney beans (rinsed)
+* 2 cups water
+* 1 cup coconut milk
 
 High heat 
 Add olive oil
