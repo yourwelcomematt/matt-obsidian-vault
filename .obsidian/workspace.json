@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Restaurant App Planning.md",
+                "file": "Recipes/Greek Fava.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Restaurant App Planning"
+              "title": "Greek Fava"
             }
           }
         ],
@@ -196,11 +196,14 @@
   },
   "active": "80bdfa4c82eecd15",
   "lastOpenFiles": [
+    "Recipes/Greek Fava.md",
+    "Recipes/Kimchi Fried Rice.md",
+    "Recipes/Red Lentil Dhal.md",
+    "Guitar/Chord Theory.md",
+    "Coding/Restaurant App Planning.md",
     "Wisdom Teeth Extraction.md",
     "Film Camera Recommendation.md",
     "Random Notes.md",
-    "Guitar/Chord Theory.md",
-    "Coding/Restaurant App Planning.md",
     "Recipes/Caramelised Pork Belly.md",
     "Recipes/Spicy Masala Pork Curry.md",
     "Recipes/Caribbean Beans and Chicken.md",
@@ -212,7 +215,6 @@
     "Recipes/Pork Jjigae.md",
     "Recipes/Sichuan Jiachang Tofu.md",
     "Photography/Film Scanning.md",
-    "Recipes/Red Lentil Dhal.md",
     "Recipes/Chana Masala.md",
     "Recipes/Mixed Bean Curry.md",
     "Recipes/Mapo Tofu.md",
@@ -220,8 +222,6 @@
     "Photography/Long Exposures.md",
     "Recipes/Kimchi Jjigae.md",
     "Photography/Lens Filters.md",
-    "Recipes/Aloo Keema.md",
-    "Recipes/Black Beans.md",
     "ps2-0230a-20080220.bin",
     "Japan",
     "Miscellaneous",

@@ -51,13 +51,33 @@ Minor 9 chords
 
 ## Diminished Chords
 
-- Made entirely of notes separated by minor thirds (three semitones)
-- When used on the 5 chord in a major key, it resolves nicely to the tonic chord
+- Made entirely of notes separated by minor thirds (three semitones) - basically a minor triad with a flattened fifth
+- Signified with a degree mark or "dim"
+- The vii chord in a major key is always a diminished chord, however it's rarely used as it's basically an incomplete V7 chord which doesn't resolve as strongly to the tonic chord
+- The ii chord in a minor key is always a diminished chord
+- Used mainly as transition chords that resolve nicely to the next chord in the progression
+	- Can resolve to any nearby major or minor chord
+	- Can be used on the V# chord to move from V -> vi (e.g., in the key of C it would be G -> G#dim -> Am)
+	- Also used on the IV# chord to move from IV -> V or to resolve to the I chord 2nd inversion
+	- When used on the V chord in a major key, it resolves nicely to the tonic chord
+- There are three kinds of 7 chords for diminished chords:
+	- Diminished major 7
+	- Diminished dominant 7, which is usually written as m7(b5) -> commonly used as the ii chord in a ii V I progression in a minor key
+	- Diminished 7, which has a double flat 7
+- Can't be inverted
+- https://www.youtube.com/watch?v=2Q_dpxMb328 Songs that use Diminished Chords (David Bennett)
 
 ## Augmented Chords
 
 - Made entirely of notes separated by major thirds (four semitones)
-- Usually accomplished by raising the fifth of the chord by one semitone
+- Usually accomplished by raising the fifth of a major chord by one semitone
+- Signified with a + symbol or "aug"
+- Most commonly used to resolve up a 4th to another chord
+	- Used on the V chord to resolve up to the I chord (alternative to a dominant 7, which gives a feeling of resolving down)
+	- Used on the I chord to resolve up to the IV chord (e.g., I, I+, IV, iv)
+- Can also be used to resolve to any chord that contains the sixth scale degree, which the raised fifth wants to resolve to (e.g., the vi chord)
+- Can't be inverted (e.g., C+/E is just E+)
+- https://www.youtube.com/watch?v=Ys6SDpBgWzc Songs that use Augmented Chords (David Bennett)
 
 ## Power Chords
 
@@ -67,7 +87,7 @@ Minor 9 chords
 
 Secondary dominant chords
 - A secondary dominant chord is the dominant chord a fifth away from the chord we want to resolve to in a given key that is not the i chord
-- ii chord
+- Resolving to the ii chord
 	- Major dominant 7 version of vi chord
 - iii chord
 	- Major dominant 7 version of vii chord
@@ -81,3 +101,7 @@ Secondary dominant chords
 - You can just use a major chord instead of the dominant 7 chord, but it won't have as much resolving tension
 - You also don't just have to resolve down to the chord a fifth below - you can resolve to another chord (e.g., in Creep where the III chord resolves to the IV chord)
 - https://www.youtube.com/watch?v=pMopMBiHKfQ Songs that use Secondary Dominants (David Bennett)
+
+Line cliches
+* Staying on a given chord but moving the lowest or highest note down or up a semitone each time
+* E.g., F -> Am/E -> Adim/Eb is just moving the lowest note down a semitone
