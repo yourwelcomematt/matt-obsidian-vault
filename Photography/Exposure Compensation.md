@@ -1,7 +1,6 @@
 ## What is exposure compensation?
 
-- Exposure compensation is a setting that allows us to adjust the overall exposure of the image
-- Extremely useful when in automatic or priority modes
+- Exposure compensation is a setting that allows us to adjust the overall exposure of the image when in a non-manual mode
 	- In automatic mode, it will change whatever setting it deems necessary
 	- In aperture priority, it will change the shutter speed and/or ISO
 	- In shutter priority, it will change the aperture and/or ISO

@@ -1,1 +1,0 @@
-https://photographylife.com/focus-and-recompose-technique

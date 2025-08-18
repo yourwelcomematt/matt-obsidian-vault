@@ -1,7 +1,7 @@
 ## What is ISO?
 
 - Back in the days of film photography, different film stocks had different light sensitivities, and this light sensitivity was referred to as ISO
-	- A film stock with a low light sensitivity required a lot of light to correctly expose an image,  thus requiring the use of low shutter speeds and a tripod in low-light situations
+	- A film stock with a low light sensitivity required a lot of light to correctly expose an image, thus requiring the use of low shutter speeds and a tripod in low-light situations
 	- A film stock with a high light sensitivity did not require as much light to correctly expose an image, making it more suited for low-light situations
 - Nowadays, ISO refers to the light sensitivity of the image sensor in the camera, which is a result of the amount of voltage/current running through it and can be adjusted
 	- Technically this is actually sensor gain, as the image is being digitally boosted
