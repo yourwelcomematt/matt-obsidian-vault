@@ -35,3 +35,14 @@ Internet plans
 	- $71/month
 	- 12 month contract = $852
 	- Mediocre reviews but has 180 reviews compared to a few dozen for the others
+
+
+
+Neurologist Consultation w/ Dr Wong
+- November 17th @ 1PM
+- $500 - not affiliated
+- Should probably reschedule to someone who is affiliated
+
+Nerve Conduction Study w/ Dr Kilfoyle
+- October 15th @ 10:30am
+- Covered by Southern Cross
