@@ -46,3 +46,9 @@ Neurologist Consultation w/ Dr Wong
 Nerve Conduction Study w/ Dr Kilfoyle
 - October 15th @ 10:30am
 - Covered by Southern Cross
+
+Monthly charges
+Power - 200 / 2 = 100
+Internet - 79.79 / 2 = 39.90
+Water - 50 / 2 = 25
+Phone - 22

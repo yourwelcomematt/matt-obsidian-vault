@@ -30,3 +30,11 @@
 
 Can also just go with the approach of metering the darkest part first, underexposing by two stops to Zone 3, and then checking that the brightest part is not more than Zone 7
 
+
+
+Rockshops with more than one DD-8 in stock:
+Acoustic K Road
+Electric K Road
+Botany
+Manukau
+
