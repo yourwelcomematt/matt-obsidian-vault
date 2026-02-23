@@ -5,8 +5,12 @@
 	- https://www.guitarparts.co.nz/electronics/toggle-switches/switchcraft-short-straight-toggle-switch.html
 - Switchcraft Right-Angle Toggle Switch
 	- Cheaper than the normal one
-	- Might be better for the Jagmaster
 	- https://guitartrade.co.nz/3-way-toggle-switchcraft-right-angle
+- Fender Pure Vintage 3-Position Pickup Selector Toggle Switch
+	- Cheaper than official Switchcraft but still made by Switchcraft (shipping is $7.50)
+	- Right-angle w/ white tip
+	- https://fendershop.co.nz/product/fender-pure-vint-3-pos-pickup-selector-toggle-switch/
+	- https://pt.fender.com/en/products/pure-vintage-3-position-pickup-selector-toggle-switch
 - https://www.reddit.com/r/offset/comments/zkcdsw/ngd_kind_of_squier_paranormal_toronado/
 - https://www.reddit.com/r/offset/comments/10lz6t8/why_doesnt_the_toronado_get_more_love_i_feel_like/
 - https://www.reddit.com/r/offset/comments/zcm1ms/ngd_squier_paranormal_toronado_concession_to_hype/
@@ -34,6 +38,7 @@
 	- Pickup and wiring routs
 	- Underside of pickguard
 - Can use garden slug repellant adhesive-backed copper foil
+	- Should have conductive adhesive
 - https://www.reddit.com/r/guitarrepair/comments/199hrqb/stop_the_hum/
 
 ### Bridge saddles
@@ -49,14 +54,22 @@
 - Complete wiring harness includes all of these, and doesn't require soldering pickups
 	- Gunstreet
 	- Obsidian
+		- NZ-made
+		- Has push-pull tone knobs for coil splits
+		- Comes with pickup selector toggle switch
+		- Comes with output jack
 - Might be able to tighten the output jack myself
+	- https://www.reddit.com/r/Guitar/comments/kkv8ps/newbie_my_guitar_cable_wont_stay_in_the_output/
 - Replace tone knobs with bass roll-off knobs like in Reverend guitars
+- https://www.huddysguitarshop.com/pages/squier-paranormal-toronado-wiring-kit-installation-guide
 
 ### PIckups
 
 - Don't need f-spaced/trembucker pickups since there's no tremolo
-- Push/pull for coil split would be nice
+- Push/pull for coil split or parallel wiring would be nice
 	- Stock humbuckers only have two leads, so would need new pickups if I wanted to do this
+	- If going the coil split route, then the PRS partial split approach is meant to be better, as it results in less noise and volume drop (can find schematics on PRS website for McCarty 594)
+	- Parallel humbucker wiring can give close to a split sound but without any noise, as both coils are still active
 - Phase switch?
 - https://www.reddit.com/r/offset/comments/18dsmv7/pickups_size_for_squier_paranormal_toronado/
 - https://www.dimarzio.com/node/1739
