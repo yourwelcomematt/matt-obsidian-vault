@@ -9,10 +9,3 @@ Index funds
 Sharesies
 - Index funds
 - Dean over last year = 45%
-
-
-## Parcel delivered to wrong address
-
-Support person has messaged the driver as well so hopefully he picks it up by end of day, otherwise will be next week
-
-Query has also been lodged (#46061717) so that the error can be rectified

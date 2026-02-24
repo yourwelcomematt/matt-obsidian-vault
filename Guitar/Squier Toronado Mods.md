@@ -52,13 +52,12 @@
 ### Pots/caps/jack
 
 - Complete wiring harness includes all of these, and doesn't require soldering pickups
-	- Gunstreet
 	- Obsidian
 		- NZ-made
 		- Has push-pull tone knobs for coil splits
 		- Comes with pickup selector toggle switch
 		- Comes with output jack
-- Might be able to tighten the output jack myself
+- Can tighten the output jack myself
 	- https://www.reddit.com/r/Guitar/comments/kkv8ps/newbie_my_guitar_cable_wont_stay_in_the_output/
 - Replace tone knobs with bass roll-off knobs like in Reverend guitars
 - https://www.huddysguitarshop.com/pages/squier-paranormal-toronado-wiring-kit-installation-guide
@@ -67,10 +66,9 @@
 
 - Don't need f-spaced/trembucker pickups since there's no tremolo
 - Push/pull for coil split or parallel wiring would be nice
-	- Stock humbuckers only have two leads, so would need new pickups if I wanted to do this
+	- Stock humbuckers only have two conductor wiring, so would need new pickups with four conductor wiring if I wanted to do this
 	- If going the coil split route, then the PRS partial split approach is meant to be better, as it results in less noise and volume drop (can find schematics on PRS website for McCarty 594)
 	- Parallel humbucker wiring can give close to a split sound but without any noise, as both coils are still active
-- Phase switch?
 - https://www.reddit.com/r/offset/comments/18dsmv7/pickups_size_for_squier_paranormal_toronado/
 - https://www.dimarzio.com/node/1739
 - https://www.reddit.com/r/offset/comments/159u4wy/recommend_me_some_humbucker_budget_pickups_for_my/
