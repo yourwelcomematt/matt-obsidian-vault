@@ -24,5 +24,5 @@ Method from: [https://www.recipetineats.com/filipino-chicken-adobo-flavour-kapow
 3) Remove chicken and set aside.
 4) Add more oil into the pan. Add onion, cook 1 1/2 minutes.
 5) Add the reserved marinade, water, sugar and black pepper. Bring it to a simmer then turn heat down to medium high. Simmer 5 minutes.
-6) Add chicken smooth side down. Simmer uncovered for 20 to 25 minutes (no need to stir), turning chicken at around 15 minutes, until the sauce reduces down to a thick jam-like syrup.
+6) Add chicken smooth side down. Simmer uncovered for 20 to 25 minutes (no need to stir), turning chicken at around 15 minutes, until the sauce reduces down to a thick jam-like syrup (NOTE: USUALLY TAKES LONGER THAN THIS TO REDUCE)
 7) Coat chicken in glaze then serve over rice with spring onions.

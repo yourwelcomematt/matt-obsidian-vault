@@ -15,7 +15,7 @@
 		- https://www.reddit.com/r/fujifilm/comments/15kffp3/experience_on_ttartisan_40mm_macro_for_dslr/
 		- https://www.youtube.com/watch?v=QjRsoiNGF4A
 		- Corner sharpness is a lot better than the 7Artisans lens
-		- Apparently there can be issues with internal reflections causing a loss of contrast (see Micael Widell's video), although this may not be an issue with film scanning as light is only coming directly into the lens and not from off angles
+		- Apparently there can be issues with internal reflections causing a loss of contrast (see Micael Widell's video), although this may not be an issue with film scanning as light is only coming directly into the lens and not from off-angles
 		- https://www.youtube.com/watch?v=82_Qw_rzDJw
 	- 7Artisans 60mm f2.8 v2
 		- 1:1 magnification
@@ -46,29 +46,79 @@ Notes on all-in-one solutions like the Valoi Easy 35
 
 ## Software
 
-- Negative Lab Pro plugin for Lightroom Classic
-	- Most popular
-- FilmLab
+https://www.reddit.com/r/AnalogCommunity/comments/1qa49y2/a_list_of_all_film_inversion_software/
+
+### Plugins
+
+- Negative Lab Pro
+	- Paid plugin for Lightroom Classic
+	- Most popular but costs $99 USD - has a free trial for 24 conversions though
+	- https://www.negativelabpro.com/
 - Grain2Pixel
+	- Free plugin for Photoshop
+	- Mainly focused on the initial conversion itself - not so good for editing
+	- https://grain2pixel.com/
 	- From Kyle's Valoi Easy 35 video: "I don't use Lightroom but Grain2Pixel works like a charm, is free and does batches. Allows quite a lot of post conversion actions and even creates a virtual contact print."
-	- https://www.reddit.com/r/AnalogCommunity/comments/1lp8k70/comment/n0tu1mq/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+		- https://www.reddit.com/r/AnalogCommunity/comments/1lp8k70/comment/n0tu1mq/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+### Stand-Alone Apps
+
+- FilmLab
+	- Paid app
+	- Has a free trial
+	- https://www.filmlabapp.com/desktop
+- Filmomat SmartConvert
+	- Paid app - most expensive option
+	- Not recommended due to update policy: https://www.reddit.com/r/AnalogCommunity/comments/1lrdf9f/broken_promises_with_smartconvert_feeling_let/
+- Chemvert
+	- Paid app
+	- Has a demo
+	- Very slow but inversions are supposedly great
+	- https://www.reddit.com/r/AnalogCommunity/comments/1l3hmg1/negative_lab_alternative_without_adobe/
+	- https://www.reddit.com/r/AnalogCommunity/comments/1p6ehl6/alternative_to_nlp/
+	- https://www.reddit.com/r/AnalogCommunity/comments/1du0f40/is_nlp_still_the_best_way_to_convert_negatives/
+	- https://www.chemlooks.com/chemvert/
+- Darktable
+	- Fully-featured FOSS photo editing program that contains a negadoctor module for converting negatives
+	- https://www.reddit.com/r/AnalogCommunity/comments/1i8hep7/alternative_to_negative_lab_pro_that_doesnt_need/
+- RawTherapee
+	- Free raw image processing program that contains a Film Negative tool for converting negatives
+	- Once your negative has been converted to a positive, all other controls will work as intended (i.e., not in reverse)
+	- https://rawtherapee.com/
+	- https://rawpedia.rawtherapee.com/Film_Negative
+	- https://ipalopezhentsev.github.io/photo/rawtherapee/software/2020/06/14/inverting-in-rawtherapee.html
+- Film Scan Converter
+	- FOSS negative converter
+	- No macOS build download
+	- https://github.com/kaimonmok/Film-Scan-Converter
+- Filmvert
+	- FOSS negative converter
+	- www.reddit.com/r/AnalogCommunity/comments/1p6ehl6/alternative_to_nlp/
+	- https://github.com/montoyatim01/Filmvert
+- Lightroom / Photoshop / Adobe Camera Raw
+	- Fully manual workflow
+	- https://www.alexburkephoto.com/blog/2019/10/16/manual-inversion-of-color-negative-film
 
 ## Scanning Process
+
+https://www.negativelabpro.com/guide/scanning/#digital-camera-scanning
+https://forums.negativelabpro.com/t/how-to-adjust-for-low-distortion/1676?u=nate
 
 1. Set the camera up on the tripod or copy stand so that the lens is facing down
 2. Place the light source underneath it
 3. Place the film holder on top of the light source (the film should be elevated off it and not directly on it for best results)
-4. Ensure that the camera is directly parallel to / level with the light source and film holder (can use a mirror for this)
+4. Ensure that the camera is directly parallel to / level with the light source and film holder (can use a mirror for this - crosshair should be in the centre of the lens)
 5. Try to turn off or reduce any other lights in the room
-6. Insert the film strip into the film holder so that the first frame is illuminated (emulsion side up apparently - need to research this more)
+6. Insert the film strip into the film holder so that the first frame is illuminated (emulsion side up - reduces risk of glare but requires flipping the image in post)
 7. Turn the camera on
-8. Move the camera up or down until the whole screen is filled with the first frame (leave a bit of border around it though)
+8. Move the camera up or down and adjust focus until the whole screen is filled with the first frame (leave a bit of border around it though)
 9. Camera settings
 	1. RAW
 	2. Lowest ISO to reduce digital noise (e.g., ISO 100 or 200)
 	3. Aperture of f5.6-11 to ensure maximum sharpness - f8 is a good middle ground
 	4. Shutter speed on auto
 	5. Exposure compensation +1/2 to +1 stop (optional but suggested by Kyle McDougall)
+		1. Tried 1/3 stop, 2/3 stop, and 1 stop - positive image gets progressively darker
 	6. WB constant (Kyle uses 5600K)
 	7. Manual focus + focus peaking
 	8. Remote shutter release or self-timer to reduce camera shake from pressing the shutter release button
@@ -95,21 +145,51 @@ Scanning half-frame film
 
 ## Editing Process
 
+### Manual in Lightroom
+
+1) Import the images into Lightroom
+2) Use the auto white balance dropper and click on the border of the image (non-photo part of the film) to set the white balance
+3) Flip or rotate the image as required and crop to remove the border
+4) Invert the RGB curves
+5) Move the highest and lowest points of each curve right or left respectively until they meet the start of the histogram data - this corrects any colour shifts (refer to Linus video)
+6) In the overall tone curve, add an S-curve to introduce contrast
+7) Correct any colour casts using:
+	1) White balance (overall temperature or tint)
+	2) RGB curves
+	3) Colour mixer (target specific colour HSL - note you'll have to choose the complementary colour of the colour you want to adjust)
+	4) Colour grading (adjust highlight, mid tone, or shadow colour)
+8) Sharpen the image (amount = 80-100 and radius = 1.5 - recommended by Kyle in Easy 35 video)
+9) Export to JPEG
+
+### Negative Lab Pro
+
+https://negativelabpro.s3.amazonaws.com/Quick+Start+Guide+-+Mac.pdf
+https://www.negativelabpro.com/guide/basics/
+https://www.negativelabpro.com/guide/blackwhite/
+https://www.negativelabpro.com/guide/batch/
+
 1) Import the images into Lightroom
 2) Use the auto white balance dropper and click on the border of the image (non-photo part of the film) to set the white balance
 3) Open the Negative Lab Pro plugin and change the following settings (if required):
 	1) Colour Model: Replicates colour profiles of different scanners. Frontier or Noritsu are good choices for colour film. Choose B+W for black and white film.
 	2) Pre-Saturation: Can be left as default but Teo Crawford said to use the highest setting, as the default can be a bit desaturated.
 	3) Border Buffer: Choose a value that removes the border from around the image. This ensures that the conversion is not affected by the border.
-4) Click "Convert Negatives"
+4) Wait for all thumbnails to update (this is the preset applying), then click "Convert Negatives"
 5) Edit the converted image to taste using the available settings
 	1) Kyle McDougall likes the Linear profile
 	2) Uncheck "Make Copy"
 	3) Turn off sharpening
 6) Click "Apply"
-7) In LR, crop the image to remove the border
+7) In LR, flip or rotate the image as required and crop to remove the border
 8) Sharpen the image (Amount = 80-100 and Radius = 1.5 - recommended by Kyle in Easy 35 video)
 9) Export to JPEG
+
+NLP Tips
+- To reset any individual setting, just single-click on the setting name
+- Where you see it, click the ⟳ button to cycle through dropdown options
+- Hover your mouse cursor over most setting names to get more details about that setting
+- You can get more accuracy over the sliders by clicking the number box beside it, and using the UP and DOWN arrow keys to change it. Holding the SHIFT key while you do this and it will make larger steps.
+- For many of the controls, even if you reach the max of the slider, you can still push it further by directly changing the number in the box
 
 From TTArtisan 40mm macro Reddit post:
 - "A little tip for processing the RAF files. I import the files from the SD card to Capture One Express (free Fujifilm license), and export them as TIFFs to convert with Negative Lab Pro in Lightroom. It avoids the worming problem with Lightroom and RAF files."
@@ -119,11 +199,4 @@ From TTArtisan 40mm macro Reddit post:
 - Refer to Photography playlist in YouTube
 - https://www.reddit.com/r/AnalogCommunity/comments/1gggf19/i_spent_weeks_planning_my_first_dslr_film_scan_at/
 - https://www.reddit.com/r/AnalogCommunity/comments/1g196pc/what_would_i_need_to_scan_film_negatives/
-
-
-
-Film camera recommendations
-	* Olympus OM-1 or OM-2 or OM-20
-		* Small SLR option
-		* OM-1 only takes mercury batteries
-		* OM-2 takes SR44 batteries but is harder to find
+- https://www.reddit.com/r/AnalogCommunity/comments/1m3e87d/suggestions_for_a_free_negative_conversion/

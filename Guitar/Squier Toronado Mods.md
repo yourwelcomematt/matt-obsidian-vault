@@ -18,13 +18,18 @@
 
 ### Tuners
 
-- Kluson-style
-- Gotoh vintage-style locking tuners
+- Kluson-style tuners
 - Toronado has 9mm peg holes
-	- Gotoh tuners might not fit
+	- Tuners made for 10mm peg holes will not fit
 	- Hipshot tuners are 8.5mm with a mounting plate
+	- https://www.guitarparts.co.nz/tuning-machines/6-in-line/gotoh-kluson-style-tuning-keys-nickel.html
+	- https://www.guitarparts.co.nz/tuning-machines/6-in-line/genuine-kluson-6-in-line-tuners-nickel.htmlk
+- Roller-style string tree would offer less friction and better tuning stability
+	- Been encountering resonant frequencies with the G string as well - might add a second string tree
+	- https://www.guitarparts.co.nz/hardware-and-parts/string-guides/gotoh-barrel-style-string-guides-set-chrome.html
 - https://www.reddit.com/r/offset/comments/15gnp7f/paranormal_toronado_drop_in_locking_tuners/
 - https://www.reddit.com/r/guitarmod/comments/135bcu2/has_anyone_replaced_the_bridge_on_or_modded_a/
+- https://www.reddit.com/r/fender/comments/1c3nqf8/what_is_the_best_replacement_tuner_for_this_style/
 
 ### Nut
 
@@ -43,9 +48,13 @@
 
 ### Bridge saddles
 
-- Can use Tele/Strat saddles
+- Can use Strat saddles
 - Block saddles are better than bent saddles for sustain and tuning stability
-- 10.5 mm string spacing
+- 10.5mm string spacing
+- Options
+	- Type of metal doesn't make a difference - mainly for aesthetics
+	- Steel: https://www.guitarparts.co.nz/bridge-saddles/strat/gotoh-s21-saddle-set-chrome.html
+	- Brass: https://www.guitarparts.co.nz/bridge-saddles/strat/gotoh-s11-saddle-set-chrome.html
 - https://www.reddit.com/r/offset/comments/1jb0qyo/solution_to_the_bridge_of_my_fender_squier/
 - https://www.reddit.com/r/guitarmod/comments/135bcu2/has_anyone_replaced_the_bridge_on_or_modded_a/
 
@@ -69,9 +78,15 @@
 	- Stock humbuckers only have two conductor wiring, so would need new pickups with four conductor wiring if I wanted to do this
 	- If going the coil split route, then the PRS partial split approach is meant to be better, as it results in less noise and volume drop (can find schematics on PRS website for McCarty 594)
 	- Parallel humbucker wiring can give close to a split sound but without any noise, as both coils are still active
+- Questions to ask yourself when looking for new pickups:
+	- What kind of music do you like to play?
+	- What kind of amp do you play through?
+	- What kind of effects do you use?
+	- What characteristics do you want in a pickup (e.g., clarity, mid-range, warmth, etc.)?
 - https://www.reddit.com/r/offset/comments/18dsmv7/pickups_size_for_squier_paranormal_toronado/
 - https://www.dimarzio.com/node/1739
 - https://www.reddit.com/r/offset/comments/159u4wy/recommend_me_some_humbucker_budget_pickups_for_my/
+- https://www.andertons.co.uk/guitar-pickup-guide
 
 
 
@@ -80,3 +95,4 @@ Posts referencing many different mods:
 - https://www.reddit.com/r/offset/comments/1ko3a0q/toronado_is_love_toronado_is_life/
 - https://www.reddit.com/r/guitars/comments/1crg6nt/i_have_a_squire_toronado_i_love_it_but_its_pretty/
 - https://www.reddit.com/r/offset/comments/h9omcv/ngd_squier_toronado_shes_beautiful_in_every_sense/
+- https://www.reddit.com/r/offset/comments/1lfdip6/more_mods_for_my_toronado/

@@ -1,53 +1,66 @@
 ## Major Chords
 
+Required notes
+* 1st + major 3rd + 5th
+
 Inversions
-* Tonic note in the bass = root position
-* Third in the bass = 1st inversion
-* Fifth in the bass = 2nd inversion
+- Where the order of the required notes is changed
+* Root position = tonic note in the bass (e.g., C, E, G)
+* 1st inversion = 3rd in the bass (e.g., E, G, C)
+* 2nd inversion = 5th in the bass (e.g., G, C, E)
 
-Suspended chords
-- Third is replaced with the fourth = sus 4
-- Third is replaced with the second = sus 2
+Suspended chord
+- Replaces the 3rd with an adjacent note
+- Sus2 = 3rd is replaced with the 2nd
+- Sus4 = 3rd is replaced with the 4th
 
-Add 6 chords
-- Adds the sixth to the major triad (i.e., the root note of the relative minor chord - e.g., F# for A major)
+Add 6 chord
+- Adds the 6th to the major triad (i.e., the root note of the relative minor chord - e.g., F# for A major)
 - Can be used within a song or as a distinctive final chord
 
-Add 9 chords
-* Adds the ninth to the major triad
+Add 9 chord
+* Adds the 9th to the major triad
 
 6/9 chords
-* Adds the sixth + ninth to the major triad
+* Adds the 6th + 9th to the major triad
 * Sometimes used to conclude a song
 
-Major 7 chords
-- Adds the seventh to the major triad
+Major 7 chord
+- Adds the major 7th to the major triad
+- Usually involves dropping one of the octaves of the 1st down one semitone
 
-Major 9 chords
-* Adds the ninth to a major 7 chord
+Major 9 chord
+* Adds the 9th to a major 7 chord
 
-Dominant 7th chords
-- Lowers the seventh by one semitone
+Dominant 7 chord (aka 7 chord)
+- Lowers the 7th by one semitone
 - Bluesy feel
 - Provides a stepping stone to the 4 chord
 - 7+9 chord raises the 9th by one semitone (augmentation) - also called the Hendrix chord
 
 Dominant 9 or 11 or 13 chords
-- Jazzy extensions of a dominant 7th
-	- Dominant 7th + 9th = 9 chord
-	- Dominant 7th + 9th + 11th = 11 chord
+- Jazzy extensions of a dominant 7
+	- Dominant 7 + 9th = 9 chord
+	- Dominant 7 + 9th + 11th = 11 chord
 		- Most commonly used as the V chord at the end of a chord progression
 		- Can be thought of as a slash chord when the 3rd and 5th are omitted (e.g., B flat 11 can also be called A flat / B flat, as the dominant 7th, 9th, and 11th form an A flat triad)
-	- Dominant 7th + 9th + 11th + 13th = 13 chord
-- Strictly speaking all of the specified notes must be included, however this can make the chord sound muddy and can be difficult to play
+	- Dominant 7 + 9th + 11th + 13th = 13 chord
+- Strictly speaking, all of the specified notes must be included, however this can make the chord sound muddy and can be difficult to play
 - In practice you can just have the root, 7th, and specified scale degree, or omit the 3rd and 5th
 - The extension notes can also be modified (e.g., 7 flat 9, 7 sharp 9, 9 sharp 11, etc.)
 - https://www.youtube.com/watch?v=_GXLqQ6z6z8 Songs that use 9th, 11th and 13th chords (David Bennett)
 
 ## Minor Chords
 
+Required notes
+- 1st + minor 3rd + 5th
+
+Minor 7 chords
+* Adds the minor 7th to the minor triad
+* Usually involves dropping one of the octaves of the 1st down two semitones
+
 Minor 9 chords
-- Same as a M9 chord just with the minor third
+- Same as a major 9 chord, just with the minor third
 
 ## Diminished Chords
 
@@ -81,7 +94,8 @@ Minor 9 chords
 
 ## Power Chords
 
-- Made entirely of root notes and fifths (no major or minor third)
+- Made entirely of root notes and 5ths (no major or minor 3rd)
+- Because there's no major or minor 3rd, they can be used in any major or minor key without modification
 
 # Chord Movements
 

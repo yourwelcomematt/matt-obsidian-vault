@@ -1,0 +1,58 @@
+## Potentiometers (AKA Pots)
+
+- Used in volume and tone controls
+- Come in different resistance values
+	- Higher resistance value = brighter sound, as it reduces the high frequency signal loss to ground that is always present
+	- 250K traditionally used for single coils to tame the brightness
+	- 500K traditionally used for humbuckers to brighten the sound
+	- 1000K used in Jazzmasters for an extra bright sound
+- Components (top to bottom)
+	- Shaft for operating the pot (knob is attached to this)
+	- Bushing with threads to secure the pot to the guitar
+	- Housing/body which contains the active part of the pot
+	- Three lugs for connecting wires
+- Electronically, they function like variable resistors
+	- Within the pot, the two outer lugs are connected by a resistive strip which corresponds to the pot's resistance value
+	- The centre lug is connected to a wiper, which moves across this resistive strip as the pot is adjusted
+	- As the wiper moves, the resistance values of the three lugs change accordingly
+	- When the pot is all the way to the left, the left lug and the centre lug are directly connected via the wiper, and there's full resistance to the right lug
+	- Same when it's all the way to the right
+- Usually displayed in diagrams either upside-down or behind
+	- This means when the wiper is all the way to the left, it's actually all the way to the right (i.e., maximum volume or tone)
+- Volume knob
+	- Pickup signal wire is connected to left lug (acts as the input)
+	- Output jack signal wire is connected to the middle lug (acts as the output)
+	- Ground wire is connected to the right lug
+	- When the pot is all the way to the left, the pickup input is connected to the jack output with no resistance, resulting in full volume
+	- ![[Pasted image 20260226165710.png]]
+	- As the pot turns right, resistance increases to the middle lug, and resistance decreases to the right lug, resulting in volume decreasing as more signal is lost to ground
+	- ![[Pasted image 20260226165809.png]]
+	- ![[Pasted image 20260226165910.png]]
+	- When the pot is all the way to the right, the jack output is connected to the ground, resulting in no volume
+	- ![[Pasted image 20260226170039.png]]
+- Tone knob
+	- Hot signal is connected to the middle lug
+	- Ground wire is connected to the right lug
+	- Capacitor is connected in series with the pot
+	- When the pot is all the way to the left, there is maximum resistance to the right lug, so no signal is lost to ground
+	- As the pot turns right, resistance to the right lug decreases, resulting in increasing signal loss to ground
+	- When the pot is all the way to the right, there is maximum signal loss to ground
+	- However, the capacitor blocks lower frequencies from going to ground, and allows higher frequencies to pass, resulting in a loss of high end
+- Shaft types
+	- Solid
+		- Can only take knobs that are fastened with a screw (e.g., those on Teles)
+		- 1/4 inch (larger) or 6mm (smaller) - knobs need to match
+	- Split
+		- Can only take push-on knobs (e.g., those on Strats and Les Pauls)
+		- 24 spline (US) or 18 spline (metric) - knobs need to match
+	- Knobs designed for 1/4 inch solid shaft pots can be mounted on all other pots using a sleeve
+- Bushing length
+	- Must be long enough to fit through the mounting surface of the guitar with a nut and washer
+	- Short shaft or semi shaft for pickguards or metal control plates
+	- Semi shaft for thin wood tops
+	- Long shaft for thick wood tops
+- Bushing diameter
+	- 3/8 inch (US) or 8mm (metric) for bushing mounting holes
+	- Can adapt 8mm for 3/8 inch holes using parts, but need to widen the holes if you want to adapt 3/8 inch for 8mm
+- Physical size
+	- Different pot types (e.g., dual pots and push-pull pots) take up different amounts of physical space

@@ -10,7 +10,7 @@ https://fullkitchenrecipes.com/easy-chana-masala-chickpea-curry/#recipe
 - 1 tablespoon garlic paste
 - 1 teaspoon red chili powder
 - 1 teaspoon coriander powder
-- 1 teaspoon cumin seeds or powder
+- 1 teaspoon cumin seeds or powder (SEEDS ARE BETTER)
 - ½ teaspoon turmeric powder
 - Salt to taste
 - 1 teaspoon amchur powder
