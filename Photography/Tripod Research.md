@@ -1,4 +1,40 @@
-Falcam TreeRoot Lite - REMOVED FROM CONTENTION
+## Research
+
+Tripods for film photography
+- https://www.reddit.com/r/AnalogCommunity/comments/15c2qho/what_should_i_be_considering_when_buying_a_tripod/
+- https://www.reddit.com/r/AnalogCommunity/comments/1ai0wxk/tripod_recommendations_olympus_om1/
+- https://www.reddit.com/r/AnalogCommunity/comments/1m9leko/tripods_and_night_street_photography/
+- https://www.reddit.com/r/AnalogCommunity/comments/19cfvex/tripod_recommends_for_500cm/
+
+Manfrotto 190XB measurements (current tripod)
+- https://www.bhphotovideo.com/c/product/480298-REG/Manfrotto_190XB_Aluminum_Tripod_Kit.html/overview
+- Weight - 2.2 kg
+- Folded length - 53.34 cm
+- Max height with centre column retracted - 128cm (have to bend over a lot - lower chest)
+- Comfortable height with Nikon F2 attached (but not including camera) - 154.5cm (max height essentially)
+	- Nikon F2 viewfinder height from baseplate - 7.5cm
+
+Ideal specs
+- Weight - 1.8kg or less
+- Folded length - 50cm or less
+- Height with centre column retracted - 140cm or more
+	- Eye level height is 154.5cm when Nikon F2 is attached
+- Leg sections - 4
+- Twist locks
+
+Tips
+- Try to avoid extending the centre column if you can as it's less stable
+- Twist locks are much easier to clean than lever locks
+- Less leg sections is generally more stable as the last section is thicker
+- Arca Swiss compatible heads are the industry standard
+- Can add weight to a lighter tripod using the centre column hook (if present)
+
+https://www.onlandscape.co.uk/2020/12/travel-tripod-review/ Covers Benro Rhino 14C, Peak Design, Manfrotto Befree Advanced, 3LT and others
+
+
+## Options
+
+### Falcam TreeRoot Lite - REMOVED FROM CONTENTION
 - https://photogear.co.nz/tripods-and-supports/falcam-treeroot-quick-lock-lite-trpd-c141k-301/ - $569
 - Specs
 	- Weight - 1.3 kg
@@ -19,7 +55,7 @@ Falcam TreeRoot Lite - REMOVED FROM CONTENTION
 - https://www.youtube.com/watch?v=jv4iTDlMS70
 	- "Beware the ball head on this tripod is very weak. My setup is a simple Sony zv-e1 + 50mm f1.2 and the ball head cannot support it at an angle. I wouldn’t recommend buying this tripod at all. I’ll end up spending another $100 to replace the ball head with something stronger."
 
-Falcam TreeRoot - REMOVED FROM CONTENTION
+### Falcam TreeRoot - REMOVED FROM CONTENTION
 - https://photogear.co.nz/brands/ulanzi/ulanzi-falcam-treeroot-quick-lock-travel-tripod-r141k-320p/ - $819
 - Specs
 	- Weight - 1.5 kg
@@ -41,7 +77,7 @@ Falcam TreeRoot - REMOVED FROM CONTENTION
 	- "The quick lock mecanism stopped working after 3 months, which makes the tripod completely unusable since the head cannot be purchased separately. Also Falcam refuses to help if you don't purchase directly from them. Do not buy."
 	- "Please don't buy this tripod. It is close to impossible to remove the rubber feet in order to use the spike. You don't want this happen to you when you use this tripod in sub-zero temperature."
 
-3 Legged Thing Punks Travis 2.0 - REMOVED FROM CONTENTION
+### 3 Legged Thing Punks Travis 2.0 - REMOVED FROM CONTENTION
 - https://www.rubbermonkey.co.nz/3-Legged-Thing-Punks-Travis-2-0-Magnesium-Alloy-Tripod-with-AirHed-Neo-2-0-Ball-Head-Black - $469
 - Specs
 	- Weight - 1.8 kg
@@ -53,16 +89,17 @@ Falcam TreeRoot - REMOVED FROM CONTENTION
 - Cons
 	- Unable to try in-person
 	- Heavy for the size and leg diameters
+	- Not sure how easy it is to contact support
 	- https://www.talkphotography.co.uk/threads/issue-with-3-legged-things-punks-brian.736012/?utm_source=chatgpt.com
 
-3 Legged Thing Punks Billy 2.0 - REMOVED FROM CONTENTION
+### 3 Legged Thing Punks Billy 2.0 - REMOVED FROM CONTENTION
 - https://www.rubbermonkey.co.nz/3-Legged-Thing-Punks-Billy-2-0-Carbon-Fibre-Tripod-with-AirHed-Neo-2-0-Ball-Head-Black - $669
 - Carbon fibre version of the Travis - identical in every way except weight
 	- Weight - 1.56 kg
 
-Manfrotto Befree Advanced - REMOVED FROM CONTENTION
+### Manfrotto Befree Advanced Carbon - REMOVED FROM CONTENTION
 - https://www.rubbermonkey.co.nz/Manfrotto-MKBFRTC4-BH-Befree-Advanced-Carbon-Fibre-Travel-Tripod-Twist-Ball-Head-Black - $539
-- Carbon fibre version specs
+- Specs
 	- Weight - 1.25 kg
 	- Folded length - 41 cm
 	- Max height without centre column - 127 cm
@@ -76,9 +113,14 @@ Manfrotto Befree Advanced - REMOVED FROM CONTENTION
 	- Only supports Manfrotto's proprietary plates
 	- No spirit level
 	- https://www.reddit.com/r/AskPhotography/comments/1mgsp0j/whats_the_difference_between_the_manfrotto_befree/
-- https://www.dpreview.com/reviews/four-travel-tripods-for-every-budget-tested-in-the-real-world/6
+- Reviews
+	- https://www.dpreview.com/reviews/four-travel-tripods-for-every-budget-tested-in-the-real-world/6
+- Impressions from store
+	- Very compact when folded
+	- Controls feel cheap and plasticky, especially the column height control
+	- Feet are not replaceable
 
-Manfrotto Befree Advanced AS - REMOVED FROM CONTENTION
+### Manfrotto Befree Advanced Carbon AS - REMOVED FROM CONTENTION
 - https://photogear.co.nz/manfrotto/manfrotto-befree-advanced-as-aluminum-tripod-twist/ - $287
 - https://photogear.co.nz/manfrotto/manfrotto-befree-advanced-as-carbon-tripod-twist/  - $393
 - Same as the standard version but supports Arca-Swiss plates and has a spirit level
@@ -87,7 +129,7 @@ Manfrotto Befree Advanced AS - REMOVED FROM CONTENTION
 	- Load capacity - 9 kg
 - https://www.youtube.com/watch?v=3FGdkMmfGnU
 
-Manfrotto Befree GT Carbon - REMOVED FROM CONTENTION
+### Manfrotto Befree GT Carbon - REMOVED FROM CONTENTION
 - https://www.rubbermonkey.co.nz/Manfrotto-MKBFRTC4GT-BH-Befree-GT-Carbon-Fiber-Tripod-Twist-Lock-Ball-Head-Black - $629
 - Max height without centre column extended - 138 cm
 - Max height with centre column extended - 162 cm
@@ -96,8 +138,8 @@ Manfrotto Befree GT Carbon - REMOVED FROM CONTENTION
 - Reviews
 	- https://www.matthiashaltenhof.com/gear/accessories/manfrotto-befree-gt-carbon-review/
 - Impressions from store
-	- Sturdy
-	- Controls feel cheap and plasticky
+	- Sturdy and not that much bigger or heavier than the Advanced
+	- Controls feel cheap and plasticky, especially the column height control
 
 ### Benro Bat 15A + VX20
 - https://www.photowarehouse.co.nz/shop/shop-by-product/tripods-and-supports/tripods-head-combo/benro-bat-one-series-aluminum-travel-tripod-with-vx20-ball-head-65-2 - $378
@@ -119,6 +161,7 @@ Manfrotto Befree GT Carbon - REMOVED FROM CONTENTION
 - Impressions from store
 	- Sturdy for a 5 section tripod
 	- Good size and weight
+	- Robust centre column
 
 ### Benro Rhino 14C + VX20
 - Not available in NZ - only AU
@@ -128,7 +171,7 @@ Manfrotto Befree GT Carbon - REMOVED FROM CONTENTION
 * Weight - 1.46 kg
 * Leg diameters - 25.2mm, 21.8mm, 18.4mm, 15mm
 
-Benro Bat 24C + VX25
+### Benro Bat 24C + VX25
 - https://www.progear.co.nz/shop/fbat24cvx25-benro-bat-24c-vx25-kit-1735?page=4&category=22&search=benro#attr=1874
 - https://www.photowarehouse.co.nz/shop/shop-by-product/tripods-and-supports/tripods-head-combo/benro-fbat24cvx25-bat-carbon-fiber-tripod-kit-with-vx25-ball-head
 - https://uk.benroeu.com/benro-2-carbon-fiber-fbat24c-vx25/
@@ -141,7 +184,7 @@ Benro Bat 24C + VX25
 	* Sturdy
 	* Too bulky and heavy
 
-Benro Rhino 24C + VX25
+### Benro Rhino 24C + VX25
 * https://www.photowarehouse.co.nz/shop/shop-by-product/tripods-and-supports/tripods-head-combo/benro-rhino-carbon-fiber-two-series-travel-tripod-with-vx25-head
 * Max height without centre column extended - 139.5 cm (have to bend over but still a decent height)
 * Max height with centre column extended - 168.5 cm
@@ -151,27 +194,3 @@ Benro Rhino 24C + VX25
 * Reviews
 	* https://www.markbauerphotography.com/news/benro-rhino-long-term-review
 	* https://fstoppers.com/reviews/review-benro-rhino-24c-carbon-fiber-tripod-625802?utm_source=FS_RSS&utm_medium=RSS&utm_campaign=Main_RSS
-
-### Manfrotto 190XB (current tripod)
-- https://www.bhphotovideo.com/c/product/480298-REG/Manfrotto_190XB_Aluminum_Tripod_Kit.html/overview
-- Max height without centre column extended - 128cm (have to bend over a lot - lower chest)
-- Nikon F2 viewfinder height (without tripod) - 7.5cm
-- **Comfortable height with Nikon F2 attached (but not including camera) - 154.5cm (max height essentially)**
-- Folded length - 53.34 cm
-- Weight - 2.2 kg
-
-
-Tripods for film photography
-- https://www.reddit.com/r/AnalogCommunity/comments/15c2qho/what_should_i_be_considering_when_buying_a_tripod/
-- https://www.reddit.com/r/AnalogCommunity/comments/1ai0wxk/tripod_recommendations_olympus_om1/
-- https://www.reddit.com/r/AnalogCommunity/comments/1m9leko/tripods_and_night_street_photography/
-- https://www.reddit.com/r/AnalogCommunity/comments/19cfvex/tripod_recommends_for_500cm/
-
-Tips
-- Try to avoid extending the centre column if you can as it's less stable
-- Twist locks are much easier to clean than lever locks
-- Less leg sections is generally more stable as the last section is thicker
-- Arca Swiss compatible heads are the industry standard
-- Can add weight to a lighter tripod using the centre column hook (if present)
-
-https://www.onlandscape.co.uk/2020/12/travel-tripod-review/ Covers Benro Rhino 14C, Peak Design, Manfrotto Befree Advanced, 3LT and others
