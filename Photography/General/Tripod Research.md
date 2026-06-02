@@ -3,8 +3,14 @@
 Tripods for film photography
 - https://www.reddit.com/r/AnalogCommunity/comments/15c2qho/what_should_i_be_considering_when_buying_a_tripod/
 - https://www.reddit.com/r/AnalogCommunity/comments/1ai0wxk/tripod_recommendations_olympus_om1/
+	- Manfrotto BeFree works well with lenses up to 135mm. I’ve used the aluminium version for years before switching to a carbon tripod by Rollei, mainly since I wanted to work from a higher perspective.
+	- The 200mm often needs more support, although it‘s doable with the OM-1s mirror-lock-up.
+	- A CPL improves your photos a lot. You can either make shiny things more shiny by enhancing the reflection, or completely get rid of glare, see through water and glass, and enhance saturation of wet leaves (for example). The effect can’t be replicated in post. Furthermore, it decreases haze, thereby enhancing visibility of distant object and makes clouds in the sky pop. You’ll get maximum polarisation when shooting with the sun at a 90° angle. The penalty is a cut in light of between 1-2 stops (the filter’s density alone cuts 1 stop, maximum polarisation roughly cuts another 1 stop). Your camera’s TTL meter will automatically adjust for it, but keep that in mind when metering externally.
+	- ND filters are great when you want to prolong exposures times (moving clouds or water, get rid of people) or shoot with faster film and a wide open aperture during the day time. Graduated ND filters are especially useful for slide film when the contrast between the sky and landscape underneath exceeds your film’s dynamic range.
 - https://www.reddit.com/r/AnalogCommunity/comments/1m9leko/tripods_and_night_street_photography/
+	- Tripods are great but you don't need a huge one unless you're using a large lens. For stealthy nighttime street shooting, I rarely carry more than a wide-ish prime, shutter release and an ultralight tripod (old Slik Rover C). Zoom with my feet. I might take my smallest flash to walk around and paint or kick light into a dark corner of the scene.
 - https://www.reddit.com/r/AnalogCommunity/comments/19cfvex/tripod_recommends_for_500cm/
+	- I've used a Benro MeFoto Globetrotter with a Hasselblad. Very compact, supports a lot of weight, ball head that uses Arca plates. Twist locks though. Manfrotto BeFree tripods look similar and have lever locks as an option.
 
 Manfrotto 190XB measurements (current tripod)
 - https://www.bhphotovideo.com/c/product/480298-REG/Manfrotto_190XB_Aluminum_Tripod_Kit.html/overview

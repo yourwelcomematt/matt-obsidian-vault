@@ -40,6 +40,15 @@
 	- See farther into water
 - Also provides an ND effect
 
-### References
+### Colour filters
+
+- Used in black and white photography to alter the brightness of different colours
+- Will make the colours in the scene that are similar brighter, and make opposite colours darker
+- Common filter colours:
+	- Red
+	- Yellow
+	- Green
+
+#### References
 
 - https://www.bhphotovideo.com/explora/photography/hands-on-review/a-guide-to-neutral-density-filters
