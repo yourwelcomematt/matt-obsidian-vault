@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1bd80bfe258df2a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guitar/Squier Toronado Mods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Squier Toronado Mods"
+            }
+          },
+          {
             "id": "c82aefe09d820083",
             "type": "leaf",
             "state": {
@@ -36,31 +50,17 @@
             }
           },
           {
-            "id": "1bd80bfe258df2a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guitar/Squier Toronado Mods.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Squier Toronado Mods"
-            }
-          },
-          {
             "id": "ce5d62dfa57da8e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photography/Film/Home Film Development.md",
+                "file": "Recipes/Pork/Spicy Masala Pork Curry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Film Development"
+              "title": "Spicy Masala Pork Curry"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dynamic",
+                "query": "korean",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,45 +169,45 @@
   },
   "active": "ce5d62dfa57da8e8",
   "lastOpenFiles": [
-    "Photography/Film/Film Camera Recommendations for Rosalie.md",
-    "Photography/Film/Gear Research - Nikon.md",
-    "Photography/Film/Nikon 35-70 f3.5 AIS Opinions.md",
-    "Photography/Film/Pushing and Pulling Film.md",
-    "Photography/Film/Pushing Colour Film Opinions.md",
-    "Photography/Film/Film Camera Batteries.md",
+    "Recipes/Pork/Pork Jjigae.md",
+    "Recipes/Pork/Pork Casserole.md",
+    "Recipes/Pork/Mapo Tofu.md",
+    "Recipes/Pork/Kimchi Jjigae.md",
+    "Recipes/Pork/Caramelised Pork Belly.md",
+    "Recipes/Chicken/Sticky Chinese Chicken Wings.md",
+    "Recipes/To research.md",
+    "Recipes/Vegetarian/Sundubu Jjigae.md",
+    "Recipes/Seafood",
+    "Recipes/Vegetarian/Simple Black Beans Old.md",
+    "Recipes/Vegetarian/Simple Black Beans New.md",
+    "Recipes/Beef/Sausage Stew.md",
+    "Recipes/Beef/Niku Tofu.md",
+    "Recipes/Beef/Nigerian Beef Stew.md",
+    "Recipes/Beef/Mongolian Mince.md",
+    "Recipes/Beef/Korean Beef & Radish Soup.md",
+    "Untitled.base",
+    "Recipes/Pork/Kimchi Fried Rice.md",
+    "Recipes/Vegetarian/Coconut Curry Kidney Beans.md",
+    "Recipes/Lamb/Aloo Keema.md",
+    "Recipes/Lamb",
+    "Guitar/Theory/Chord Progressions.md",
+    "Recipes/Vegetarian",
+    "Recipes/Pork",
+    "Recipes/Beef",
+    "Recipes/Chicken",
+    "Guitar/Electronics/Electric Guitar Electronics.md",
+    "Guitar/Theory",
+    "Guitar/Untitled.md",
+    "Guitar/Electronics",
+    "Photography/Film/Metering For Film.md",
+    "Untitled.md",
+    "Photography/Film/Shooting Film At Night.md",
     "Photography/Film/Zone System.md",
-    "Photography/General/Viewfinder.md",
-    "Photography/General/Shooting Conditions - Harsh Light.md",
-    "Photography/Film/Gear Research - Canon.md",
-    "Photography/General/Printing.md",
-    "Photography/General/Long Exposures.md",
-    "Photography/Film/Light Seal Replacement.md",
-    "Photography/Lightroom Settings.md",
-    "Photography/General/Light Metering (Photometry).md",
-    "Photography/General/Lens Resources.md",
-    "Photography/General/Lens Filters.md",
-    "Photography/General/ISO.md",
-    "Photography/Digital/Image Stabilisation (IS).md",
-    "Photography/Digital/Image Sensors.md",
-    "Photography/General/Editing.md",
-    "Photography/General/Autofocus & Manual Focus.md",
-    "Photography/Digital/Fujifilm X-T2 Film Simulations.md",
-    "Photography/Batteries.md",
-    "Photography/Digital/Fujifilm Batteries.md",
-    "Photography/General/Sirui Anamorphic Squeeze Factors.md",
+    "Photography/Film/Film Camera Batteries.md",
     "Photography/Digital",
-    "Photography/General",
-    "Photography/Film",
-    "Finance",
-    "Gaming",
-    "Travel",
-    "ps2-0230a-20080220.bin",
-    "Japan",
-    "Miscellaneous",
     "Shutter Angles and Exposure Time.png",
     "What-is-Bokeh-Bokeh-Example-Image.jpg",
     "What-is-Depth-of-Field-Diagram.jpg",
-    "What-is-the-Exposure-Triangle-StudioBinder-Reference-Chart.jpg",
-    "Guitar"
+    "What-is-the-Exposure-Triangle-StudioBinder-Reference-Chart.jpg"
   ]
 }

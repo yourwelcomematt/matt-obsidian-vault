@@ -1,0 +1,2 @@
+https://www.youtube.com/watch?v=tDq7-EbOlx8
+- Another useful tip is two overexpose two stops for night photography. The images come out looking clean, and you avoid the dreaded green cast in the shadows. Given that night photography has a lot of shadows, it benefits the most by overexposing by two stops. Yes, you will need a tripod, but lugging around a tripod is better than having thin negatives that look like sh*t.
