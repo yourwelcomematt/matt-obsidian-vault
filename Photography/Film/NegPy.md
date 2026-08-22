@@ -1,8 +1,42 @@
-## Session panel (left sidebar)
+## What is NegPy?
 
-Film strip
-- Load RAW files or folders
-- Let's you view the photos in your roll as a contact sheet
+- https://github.com/marcinz606/NegPy/blob/main/docs/USER_GUIDE.md
+- NegPy turns film scans into finished positives with a non-destructive, darkroom-style pipeline
+- Nothing is ever written back to your source files - every edit lives in a local database, so you can experiment freely
+- Processing workflow order (tabs and panels)
+	- Setup (cogs icon)
+		- Presets
+		- Process (film type, negative to positive normalisation)
+		- Roll Analysis (roll-wide baselines)
+	- Geometry (crop icon)
+		- Geometry (crop, straighten)
+		- Flat Field (lens/falloff correction)
+	- Exposure (sun icon)
+		- Filtration (WB, colour casts)
+		- Tone (density, contrast, curve)
+		- Dodge & Burn
+	- Colour (palette icon)
+		- Lab (saturation, sharpening, effects)
+		- Toning (split/chemical toning)
+	- Finish (brush icon)
+		- Retouch (dust removal)
+		- Finishing (vignette, border, carrier)
+	- History (clock icon)
+		- Edit History
+	- Export (file icon)
+		- Export Settings (format, size, colour, batch output)
+	- Metadata (tags icon)
+		- Archival Metadata (original camera/lens/film details)
+	- Scan (camera icon)
+		- Scanner
+		- Camera Scanning
+- You don't have to touch every panel, as NegPy's defaults are tuned to produce a good print straight away - most frames only need a crop, maybe a white-balance nudge, and export
+- A small dot on a panel header or tab icon means you've changed something from its default
+- Every panel header has a reset action to return it to defaults
+
+## Film strip (left sidebar)
+
+Let's you view your loaded frames as a contact sheet
 
 Half Frame button
 - When scanned with two frames per scan, toggling this button on separates the frames automatically, allowing you to apply individual edits to each frame
